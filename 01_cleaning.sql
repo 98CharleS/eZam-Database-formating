@@ -12,6 +12,8 @@ WHERE organizationCountry != 'PL' OR organizationCountry IS NULL;
 -- Note: Requires SQLite version 3.35.0 or newer
 ALTER TABLE raw_data DROP COLUMN TenderType;
 ALTER TABLE raw_data DROP COLUMN procedureResult;
+-- All tenders in this scope contains same value so this column also can be dropped
+ALTER TABLE raw_data DROP COLUMN isTenderAmountBelowEU;
 
 -- 3. Finalize data by trimming whitespace from key columns
 UPDATE raw_data 

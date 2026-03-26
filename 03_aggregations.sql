@@ -1,6 +1,6 @@
 -- ---------------------------------------------------------
 -- AGGREGATION SCRIPT
--- Purpose: Create summary tables of tender counts by province
+-- Purpose: Create summary tables of tender counts by province and CPV
 -- ---------------------------------------------------------
 
 -- 1. Total tenders per province (all years combined)
@@ -31,3 +31,21 @@ SELECT
 FROM raw_data
 GROUP BY organizationProvince
 ORDER BY organizationProvince;
+
+-- 3. Total tenders per primary CPV code
+-- Extracts only the first CPV code and its description from the cpvCode field
+-- Results are ordered descending by tender count
+DROP TABLE IF EXISTS tenders_by_cpv;
+
+CREATE TABLE tenders_by_cpv AS
+SELECT 
+    TRIM(SUBSTR(cpvCode, 1, INSTR(cpvCode, ' ') - 1)) AS cpv_code,
+    TRIM(SUBSTR(
+        SUBSTR(cpvCode, INSTR(cpvCode, '(') + 1),
+        1,
+        INSTR(SUBSTR(cpvCode, INSTR(cpvCode, '(') + 1), ')') - 1
+    )) AS cpv_description,
+    COUNT(*) AS total_tenders
+FROM raw_data
+GROUP BY cpv_code, cpv_description
+ORDER BY total_tenders DESC;

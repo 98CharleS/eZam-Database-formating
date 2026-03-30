@@ -188,4 +188,5 @@ This project is licensed under the [MIT License](LICENSE).
 | Repository | Description |
 |---|---|
 | [eZam-Database-extraction](https://github.com/98CharleS/eZam-Database-extraction) | Stage 1 — API extraction to CSV |
+| *(this repo)* | Stage 2 — CSV → SQLite, cleaning & aggregations |
 | *(coming soon)* | Stage 3 — Analysis & Tableau dashboards |

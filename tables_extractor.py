@@ -3,7 +3,9 @@ import csv
 
 conn = sqlite3.connect("eZam_DB.db")
 
-tables = ["tenders_by_province", "tenders_by_province_year", "tenders_by_cpv", "tenders_by_gdp", "tenders_by_population"]
+tables = ["tenders_by_province", "tenders_by_province_year", "tenders_by_cpv", "tenders_by_gdp",
+          "tenders_by_population", "top5_cpv_by_province_2021", "top5_cpv_by_province_2022", "top5_cpv_by_province_2023"
+          , "top5_cpv_by_province_2024", "top5_cpv_by_province_2025"]
 
 for table in tables:
     cursor = conn.execute(f"SELECT * FROM {table}")

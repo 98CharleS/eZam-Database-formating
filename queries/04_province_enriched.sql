@@ -85,3 +85,28 @@ FROM (
 JOIN region_population_with_warsaw.raw_data p
     ON LOWER(TRIM(t.province_split)) = LOWER(TRIM(p.region))
 ORDER BY t.total_tenders DESC;
+
+-- 4. Tenders per province with GDP per capita
+DROP TABLE IF EXISTS tenders_by_gdp_per_capita;
+
+CREATE TABLE tenders_by_gdp_per_capita AS
+SELECT
+    t.organizationProvince                                      AS wojewodztwo,
+    t.total_tenders,
+    CAST(REPLACE(g.GDP, ' ', '') AS REAL)                       AS gdp_mln_pln,
+    CAST(REPLACE(p.population, ' ', '') AS INTEGER)             AS ludnosc,
+    ROUND(
+        CAST(REPLACE(g.GDP, ' ', '') AS REAL) * 1000000.0
+        / CAST(REPLACE(p.population, ' ', '') AS INTEGER), 2
+    )                                                           AS gdp_per_capita_pln,
+    t.total_tenders                                             AS suma_przetargow
+FROM (
+    SELECT organizationProvince, COUNT(*) AS total_tenders
+    FROM raw_data
+    GROUP BY organizationProvince
+) t
+JOIN region_GDP.raw_data g
+    ON LOWER(TRIM(t.organizationProvince)) = LOWER(TRIM(g.region))
+JOIN region_population.raw_data p
+    ON LOWER(TRIM(t.organizationProvince)) = LOWER(TRIM(p.region))
+ORDER BY gdp_per_capita_pln DESC;

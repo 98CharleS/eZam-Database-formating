@@ -186,3 +186,32 @@ FROM (
 )
 WHERE rn <= 5
 ORDER BY wojewodztwo, liczba_przetargow DESC;
+
+
+-- ---------------------------------------------------------
+-- TOP 5 CPV CATEGORIES PER PROVINCE (ALL YEARS COMBINED)
+-- ---------------------------------------------------------
+
+DROP TABLE IF EXISTS top5_cpv_by_province;
+
+CREATE TABLE top5_cpv_by_province AS
+SELECT wojewodztwo, cpv_code, cpv_description, liczba_przetargow
+FROM (
+    SELECT
+        organizationProvince AS wojewodztwo,
+        TRIM(SUBSTR(cpvCode, 1, INSTR(cpvCode, ' ') - 1)) AS cpv_code,
+        TRIM(SUBSTR(
+            SUBSTR(cpvCode, INSTR(cpvCode, '(') + 1),
+            1,
+            INSTR(SUBSTR(cpvCode, INSTR(cpvCode, '(') + 1), ')') - 1
+        )) AS cpv_description,
+        COUNT(*) AS liczba_przetargow,
+        ROW_NUMBER() OVER (
+            PARTITION BY organizationProvince
+            ORDER BY COUNT(*) DESC
+        ) AS rn
+    FROM raw_data
+    GROUP BY organizationProvince, cpv_code, cpv_description
+)
+WHERE rn <= 5
+ORDER BY wojewodztwo, liczba_przetargow DESC;

@@ -966,3 +966,12 @@ INSERT INTO tenders_by_province_and_division VALUES ('Zachodniopomorskie', 73, '
 INSERT INTO tenders_by_province_and_division VALUES ('Zachodniopomorskie', 51, 'Usługi instalacyjne', 1);
 INSERT INTO tenders_by_province_and_division VALUES ('Zachodniopomorskie', 19, 'Wyroby skórzane i tekstylne', 1);
 INSERT INTO tenders_by_province_and_division VALUES ('Zachodniopomorskie', 70, 'Usługi w zakresie nieruchomości', 1);
+
+CREATE VIEW tenders_by_day AS
+SELECT 
+    SUBSTR(publicationDate, 1, 10) AS publication_date,
+    COUNT(*)                        AS tender_count
+FROM raw_data
+WHERE publicationDate IS NOT NULL
+GROUP BY publication_date
+ORDER BY publication_date;

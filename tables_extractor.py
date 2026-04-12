@@ -5,6 +5,7 @@ conn = sqlite3.connect("eZam_DB.db")
 
 tables = [
     "tenders_by_cpv",
+    "tenders_by_day",
     "tenders_by_cpv_division",
     "tenders_by_gdp",
     "tenders_by_gdp_per_capita",

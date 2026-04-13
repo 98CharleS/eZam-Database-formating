@@ -11,7 +11,7 @@ This repository is the second stage of the **eZamówienia data pipeline**. It ta
 The pipeline handles inconsistent CSV formatting, standardizes province names across Poland's 16 voivodeships, and produces aggregated views ready for further analysis.
 
 > **Part of a larger project:**
-> [`eZam-Database-extraction`](https://github.com/98CharleS/eZam-Database-extraction) → **`eZam-Database-formating`** → *(analysis & Tableau dashboards — coming soon)*
+> [`eZam-Database-extraction`](https://github.com/98CharleS/eZam-Database-extraction) → **`eZam-Database-formating`** → [`eZam-Database-analysis`](https://github.com/98CharleS/eZam-Database-analysis) (Work in Progress)
 
 ---
 
@@ -29,14 +29,25 @@ The pipeline handles inconsistent CSV formatting, standardizes province names ac
 eZam-Database-formating/
 │
 ├── data/
-│   ├── eZam_DB.csv                    # Raw BZP data (export from eZamówienia)
-│   ├── region_GDP.csv                 # Regional GDP by province (GUS, PLN millions)
-│   ├── region_population.csv          # Regional population by province (GUS)
-│   ├── tenders_by_province.csv        # Aggregation output
-│   ├── tenders_by_province_year.csv   # Aggregation output
-│   ├── tenders_by_cpv.csv             # Aggregation output
-│   ├── tenders_by_gdp.csv             # Enrichment output
-│   └── tenders_by_population.csv      # Enrichment output
+│   ├── region_GDP.csv                         # Regional GDP by province (GUS, PLN millions)
+│   ├── region_population.csv                  # Regional population by province (GUS)
+│   ├── region_population_with_warsaw.csv       # Regional population with Warsaw split separately
+│   ├── tenders_by_cpv.csv                     # Aggregation output
+│   ├── tenders_by_cpv_division.csv            # Aggregation output – CPV division level
+│   ├── tenders_by_day.csv                     # Aggregation output – daily breakdown
+│   ├── tenders_by_gdp.csv                     # Enrichment output
+│   ├── tenders_by_gdp_per_capita.csv          # Enrichment output – GDP per capita
+│   ├── tenders_by_population.csv              # Enrichment output
+│   ├── tenders_by_population_warsaw_split.csv # Enrichment output – Warsaw split
+│   ├── tenders_by_province.csv                # Aggregation output
+│   ├── tenders_by_province_and_division.csv   # Aggregation output – province + CPV division
+│   ├── tenders_by_province_year.csv           # Aggregation output
+│   ├── top5_cpv_by_province.csv               # Top 5 CPV codes per province (all years)
+│   ├── top5_cpv_by_province_2021.csv          # Top 5 CPV codes per province – 2021
+│   ├── top5_cpv_by_province_2022.csv          # Top 5 CPV codes per province – 2022
+│   ├── top5_cpv_by_province_2023.csv          # Top 5 CPV codes per province – 2023
+│   ├── top5_cpv_by_province_2024.csv          # Top 5 CPV codes per province – 2024
+│   └── top5_cpv_by_province_2025.csv          # Top 5 CPV codes per province – 2025
 │
 ├── queries/
 │   ├── 01_cleaning.sql                # Data cleaning
@@ -189,4 +200,4 @@ This project is licensed under the [MIT License](LICENSE).
 |---|---|
 | [eZam-Database-extraction](https://github.com/98CharleS/eZam-Database-extraction) | Stage 1 — API extraction to CSV |
 | *(this repo)* | Stage 2 — CSV → SQLite, cleaning & aggregations |
-| *(coming soon)* | Stage 3 — Analysis & Tableau dashboards |
+| [eZam-Database-analysis](https://github.com/98CharleS/eZam-Database-analysis) | Stage 3 — Analysis & Tableau dashboards (WiP)|

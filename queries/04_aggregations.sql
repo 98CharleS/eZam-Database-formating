@@ -231,6 +231,7 @@ ORDER BY wojewodztwo, liczba_przetargow DESC;
 -- -----------------------------------------------------------------------------
 -- TABLE 10. tenders_by_cpv_division
 -- Number of tenders grouped by CPV division (first 2 digits)
+-- Percentages formatted as decimal (e.g., 0.39 instead of 39.0)
 -- -----------------------------------------------------------------------------
 DROP TABLE IF EXISTS tenders_by_cpv_division;
 
@@ -245,7 +246,7 @@ SELECT
     r.div_id AS cpv_division,
     COALESCE(d.name, 'Nieznana dywizja') AS division_name,
     COUNT(*) AS tender_count,
-    ROUND(COUNT(*) * 100.0 / MAX(r.total_all), 2) AS share_pct
+    ROUND(COUNT(*) * 1.0 / MAX(r.total_all), 4) AS share_pct -- Wynik 0.3971 zamiast 39.71
 FROM raw_stats r
 LEFT JOIN cpv_dictionary d ON r.div_id = d.id
 GROUP BY r.div_id, d.name

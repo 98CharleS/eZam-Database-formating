@@ -1,672 +1,707 @@
 province;cpv_division;division_name;tender_count
-Dolnośląskie;45;Roboty budowlane;1390
-Dolnośląskie;33;Sprzęt medyczny i farmaceutyczny;236
-Dolnośląskie;71;Usługi architektoniczne i inżynieryjne;230
-Dolnośląskie;30;Sprzęt komputerowy i biurowy;211
-Dolnośląskie;39;Meble i wyposażenie wnętrz;132
-Dolnośląskie;15;Artykuły spożywcze i napoje;122
-Dolnośląskie;55;Usługi hotelarskie i restauracyjne;121
-Dolnośląskie;34;Sprzęt transportowy i pojazdy;114
-Dolnośląskie;9;Produkty naftowe, paliwa i energia;107
-Dolnośląskie;90;Usługi środowiskowe i sanitarne;101
-Dolnośląskie;60;Usługi transportu drogowego;95
-Dolnośląskie;38;Sprzęt laboratoryjny i naukowy;61
-Dolnośląskie;48;Pakiety oprogramowania;60
-Dolnośląskie;79;Usługi biznesowe i doradcze;58
-Dolnośląskie;50;Usługi napraw i konserwacji;44
-Dolnośląskie;66;Usługi finansowe i ubezpieczeniowe;39
-Dolnośląskie;77;Usługi rolnicze i leśne;35
-Dolnośląskie;72;Usługi informatyczne;34
-Dolnośląskie;80;Usługi edukacyjne;33
-Dolnośląskie;44;Materiały budowlane;33
-Dolnośląskie;42;Maszyny przemysłowe;31
-Dolnośląskie;85;Usługi zdrowotne i społeczne;27
-Dolnośląskie;32;Sprzęt elektroniczny i telekomunikacyjny;26
-Dolnośląskie;18;Odzież i obuwie;19
-Dolnośląskie;14;Górnictwo i minerały;18
-Dolnośląskie;3;Produkty rolne, łowieckie i rybne;17
-Dolnośląskie;24;Produkty chemiczne;17
-Dolnośląskie;37;Sprzęt sportowy i rekreacyjny;17
-Dolnośląskie;31;Sprzęt elektryczny;17
-Dolnośląskie;64;Usługi pocztowe i telekomunikacyjne;14
-Dolnośląskie;22;Drukowane materiały i produkty poligraficzne;14
-Dolnośląskie;98;Pozostałe usługi komunalne i osobiste;14
-Dolnośląskie;19;Wyroby skórzane i tekstylne;14
-Dolnośląskie;75;Usługi administracji publicznej;10
-Dolnośląskie;16;Maszyny rolnicze;9
-Dolnośląskie;43;Maszyny górnicze;9
-Dolnośląskie;63;Usługi spedycji i logistyki;5
-Dolnośląskie;92;Usługi rekreacyjne i kulturalne;5
-Dolnośląskie;73;Usługi badawczo-rozwojowe;4
-Dolnośląskie;35;Sprzęt bezpieczeństwa i ochrony;4
-Dolnośląskie;51;Usługi instalacyjne;3
-Dolnośląskie;70;Usługi w zakresie nieruchomości;3
-Kujawsko-pomorskie;45;Roboty budowlane;914
-Kujawsko-pomorskie;33;Sprzęt medyczny i farmaceutyczny;219
-Kujawsko-pomorskie;30;Sprzęt komputerowy i biurowy;198
-Kujawsko-pomorskie;9;Produkty naftowe, paliwa i energia;120
-Kujawsko-pomorskie;71;Usługi architektoniczne i inżynieryjne;93
-Kujawsko-pomorskie;34;Sprzęt transportowy i pojazdy;85
-Kujawsko-pomorskie;39;Meble i wyposażenie wnętrz;81
-Kujawsko-pomorskie;90;Usługi środowiskowe i sanitarne;62
-Kujawsko-pomorskie;15;Artykuły spożywcze i napoje;54
-Kujawsko-pomorskie;66;Usługi finansowe i ubezpieczeniowe;54
-Kujawsko-pomorskie;80;Usługi edukacyjne;50
-Kujawsko-pomorskie;60;Usługi transportu drogowego;50
-Kujawsko-pomorskie;44;Materiały budowlane;44
-Kujawsko-pomorskie;48;Pakiety oprogramowania;43
-Kujawsko-pomorskie;79;Usługi biznesowe i doradcze;41
-Kujawsko-pomorskie;50;Usługi napraw i konserwacji;37
-Kujawsko-pomorskie;38;Sprzęt laboratoryjny i naukowy;34
-Kujawsko-pomorskie;42;Maszyny przemysłowe;29
-Kujawsko-pomorskie;55;Usługi hotelarskie i restauracyjne;27
-Kujawsko-pomorskie;72;Usługi informatyczne;25
-Kujawsko-pomorskie;32;Sprzęt elektroniczny i telekomunikacyjny;21
-Kujawsko-pomorskie;24;Produkty chemiczne;20
-Kujawsko-pomorskie;3;Produkty rolne, łowieckie i rybne;16
-Kujawsko-pomorskie;31;Sprzęt elektryczny;15
-Kujawsko-pomorskie;85;Usługi zdrowotne i społeczne;14
-Kujawsko-pomorskie;77;Usługi rolnicze i leśne;13
-Kujawsko-pomorskie;37;Sprzęt sportowy i rekreacyjny;13
-Kujawsko-pomorskie;14;Górnictwo i minerały;11
-Kujawsko-pomorskie;64;Usługi pocztowe i telekomunikacyjne;11
-Kujawsko-pomorskie;35;Sprzęt bezpieczeństwa i ochrony;8
-Kujawsko-pomorskie;98;Pozostałe usługi komunalne i osobiste;8
-Kujawsko-pomorskie;43;Maszyny górnicze;7
-Kujawsko-pomorskie;18;Odzież i obuwie;7
-Kujawsko-pomorskie;16;Maszyny rolnicze;7
-Kujawsko-pomorskie;63;Usługi spedycji i logistyki;7
-Kujawsko-pomorskie;22;Drukowane materiały i produkty poligraficzne;6
-Kujawsko-pomorskie;92;Usługi rekreacyjne i kulturalne;4
-Kujawsko-pomorskie;70;Usługi w zakresie nieruchomości;4
-Kujawsko-pomorskie;19;Wyroby skórzane i tekstylne;3
-Kujawsko-pomorskie;73;Usługi badawczo-rozwojowe;2
-Kujawsko-pomorskie;41;Woda i usługi wodne;2
-Lubelskie;45;Roboty budowlane;1197
-Lubelskie;33;Sprzęt medyczny i farmaceutyczny;217
-Lubelskie;30;Sprzęt komputerowy i biurowy;197
-Lubelskie;80;Usługi edukacyjne;182
-Lubelskie;71;Usługi architektoniczne i inżynieryjne;129
-Lubelskie;9;Produkty naftowe, paliwa i energia;115
-Lubelskie;34;Sprzęt transportowy i pojazdy;100
-Lubelskie;39;Meble i wyposażenie wnętrz;95
-Lubelskie;15;Artykuły spożywcze i napoje;91
-Lubelskie;60;Usługi transportu drogowego;82
-Lubelskie;90;Usługi środowiskowe i sanitarne;76
-Lubelskie;55;Usługi hotelarskie i restauracyjne;65
-Lubelskie;48;Pakiety oprogramowania;52
-Lubelskie;79;Usługi biznesowe i doradcze;50
-Lubelskie;38;Sprzęt laboratoryjny i naukowy;46
-Lubelskie;44;Materiały budowlane;31
-Lubelskie;66;Usługi finansowe i ubezpieczeniowe;30
-Lubelskie;72;Usługi informatyczne;27
-Lubelskie;32;Sprzęt elektroniczny i telekomunikacyjny;26
-Lubelskie;24;Produkty chemiczne;24
-Lubelskie;50;Usługi napraw i konserwacji;24
-Lubelskie;31;Sprzęt elektryczny;23
-Lubelskie;85;Usługi zdrowotne i społeczne;20
-Lubelskie;77;Usługi rolnicze i leśne;20
-Lubelskie;42;Maszyny przemysłowe;20
-Lubelskie;3;Produkty rolne, łowieckie i rybne;19
-Lubelskie;14;Górnictwo i minerały;19
-Lubelskie;22;Drukowane materiały i produkty poligraficzne;16
-Lubelskie;37;Sprzęt sportowy i rekreacyjny;11
-Lubelskie;18;Odzież i obuwie;10
-Lubelskie;70;Usługi w zakresie nieruchomości;9
-Lubelskie;73;Usługi badawczo-rozwojowe;9
-Lubelskie;16;Maszyny rolnicze;8
-Lubelskie;98;Pozostałe usługi komunalne i osobiste;7
-Lubelskie;64;Usługi pocztowe i telekomunikacyjne;6
-Lubelskie;35;Sprzęt bezpieczeństwa i ochrony;6
-Lubelskie;43;Maszyny górnicze;5
-Lubelskie;19;Wyroby skórzane i tekstylne;4
-Lubelskie;92;Usługi rekreacyjne i kulturalne;4
-Lubelskie;63;Usługi spedycji i logistyki;4
-Lubelskie;75;Usługi administracji publicznej;1
-Lubelskie;51;Usługi instalacyjne;1
-Lubelskie;41;Woda i usługi wodne;1
-Lubuskie;45;Roboty budowlane;626
-Lubuskie;30;Sprzęt komputerowy i biurowy;93
-Lubuskie;71;Usługi architektoniczne i inżynieryjne;89
-Lubuskie;33;Sprzęt medyczny i farmaceutyczny;77
-Lubuskie;34;Sprzęt transportowy i pojazdy;48
-Lubuskie;39;Meble i wyposażenie wnętrz;37
-Lubuskie;90;Usługi środowiskowe i sanitarne;37
-Lubuskie;9;Produkty naftowe, paliwa i energia;35
-Lubuskie;60;Usługi transportu drogowego;32
-Lubuskie;79;Usługi biznesowe i doradcze;28
-Lubuskie;80;Usługi edukacyjne;25
-Lubuskie;55;Usługi hotelarskie i restauracyjne;23
-Lubuskie;85;Usługi zdrowotne i społeczne;17
-Lubuskie;15;Artykuły spożywcze i napoje;13
-Lubuskie;48;Pakiety oprogramowania;10
-Lubuskie;16;Maszyny rolnicze;9
-Lubuskie;37;Sprzęt sportowy i rekreacyjny;8
-Lubuskie;66;Usługi finansowe i ubezpieczeniowe;8
-Lubuskie;32;Sprzęt elektroniczny i telekomunikacyjny;7
-Lubuskie;72;Usługi informatyczne;7
-Lubuskie;42;Maszyny przemysłowe;6
-Lubuskie;51;Usługi instalacyjne;5
-Lubuskie;3;Produkty rolne, łowieckie i rybne;5
-Lubuskie;14;Górnictwo i minerały;5
-Lubuskie;77;Usługi rolnicze i leśne;5
-Lubuskie;38;Sprzęt laboratoryjny i naukowy;5
-Lubuskie;43;Maszyny górnicze;4
-Lubuskie;44;Materiały budowlane;4
-Lubuskie;73;Usługi badawczo-rozwojowe;3
-Lubuskie;50;Usługi napraw i konserwacji;3
-Lubuskie;35;Sprzęt bezpieczeństwa i ochrony;3
-Lubuskie;24;Produkty chemiczne;3
-Lubuskie;31;Sprzęt elektryczny;3
-Lubuskie;22;Drukowane materiały i produkty poligraficzne;3
-Lubuskie;75;Usługi administracji publicznej;3
-Lubuskie;64;Usługi pocztowe i telekomunikacyjne;3
-Lubuskie;92;Usługi rekreacyjne i kulturalne;2
-Lubuskie;19;Wyroby skórzane i tekstylne;2
-Lubuskie;63;Usługi spedycji i logistyki;2
-Lubuskie;70;Usługi w zakresie nieruchomości;1
-Lubuskie;18;Odzież i obuwie;1
-Lubuskie;65;Usługi komunalne (gaz, woda, energia);1
-Łódzkie;45;Roboty budowlane;1329
-Łódzkie;71;Usługi architektoniczne i inżynieryjne;172
-Łódzkie;33;Sprzęt medyczny i farmaceutyczny;170
-Łódzkie;30;Sprzęt komputerowy i biurowy;156
-Łódzkie;34;Sprzęt transportowy i pojazdy;133
-Łódzkie;9;Produkty naftowe, paliwa i energia;128
-Łódzkie;55;Usługi hotelarskie i restauracyjne;81
-Łódzkie;90;Usługi środowiskowe i sanitarne;74
-Łódzkie;79;Usługi biznesowe i doradcze;67
-Łódzkie;39;Meble i wyposażenie wnętrz;66
-Łódzkie;60;Usługi transportu drogowego;65
-Łódzkie;80;Usługi edukacyjne;64
-Łódzkie;48;Pakiety oprogramowania;46
-Łódzkie;50;Usługi napraw i konserwacji;43
-Łódzkie;15;Artykuły spożywcze i napoje;39
-Łódzkie;38;Sprzęt laboratoryjny i naukowy;38
-Łódzkie;72;Usługi informatyczne;32
-Łódzkie;44;Materiały budowlane;28
-Łódzkie;66;Usługi finansowe i ubezpieczeniowe;26
-Łódzkie;16;Maszyny rolnicze;23
-Łódzkie;85;Usługi zdrowotne i społeczne;22
-Łódzkie;42;Maszyny przemysłowe;18
-Łódzkie;32;Sprzęt elektroniczny i telekomunikacyjny;17
-Łódzkie;14;Górnictwo i minerały;15
-Łódzkie;24;Produkty chemiczne;13
-Łódzkie;77;Usługi rolnicze i leśne;13
-Łódzkie;37;Sprzęt sportowy i rekreacyjny;13
-Łódzkie;31;Sprzęt elektryczny;12
-Łódzkie;73;Usługi badawczo-rozwojowe;11
-Łódzkie;3;Produkty rolne, łowieckie i rybne;11
-Łódzkie;98;Pozostałe usługi komunalne i osobiste;10
-Łódzkie;43;Maszyny górnicze;8
-Łódzkie;63;Usługi spedycji i logistyki;8
-Łódzkie;18;Odzież i obuwie;8
-Łódzkie;75;Usługi administracji publicznej;7
-Łódzkie;22;Drukowane materiały i produkty poligraficzne;6
-Łódzkie;92;Usługi rekreacyjne i kulturalne;5
-Łódzkie;70;Usługi w zakresie nieruchomości;5
-Łódzkie;64;Usługi pocztowe i telekomunikacyjne;4
-Łódzkie;19;Wyroby skórzane i tekstylne;4
-Łódzkie;35;Sprzęt bezpieczeństwa i ochrony;1
-Małopolskie;45;Roboty budowlane;1713
-Małopolskie;33;Sprzęt medyczny i farmaceutyczny;400
-Małopolskie;71;Usługi architektoniczne i inżynieryjne;322
-Małopolskie;30;Sprzęt komputerowy i biurowy;197
-Małopolskie;34;Sprzęt transportowy i pojazdy;167
-Małopolskie;60;Usługi transportu drogowego;157
-Małopolskie;39;Meble i wyposażenie wnętrz;140
-Małopolskie;15;Artykuły spożywcze i napoje;135
-Małopolskie;90;Usługi środowiskowe i sanitarne;128
-Małopolskie;80;Usługi edukacyjne;117
-Małopolskie;79;Usługi biznesowe i doradcze;113
-Małopolskie;9;Produkty naftowe, paliwa i energia;95
-Małopolskie;55;Usługi hotelarskie i restauracyjne;88
-Małopolskie;38;Sprzęt laboratoryjny i naukowy;88
-Małopolskie;48;Pakiety oprogramowania;86
-Małopolskie;42;Maszyny przemysłowe;61
-Małopolskie;50;Usługi napraw i konserwacji;50
-Małopolskie;72;Usługi informatyczne;46
-Małopolskie;85;Usługi zdrowotne i społeczne;42
-Małopolskie;32;Sprzęt elektroniczny i telekomunikacyjny;42
-Małopolskie;44;Materiały budowlane;34
-Małopolskie;3;Produkty rolne, łowieckie i rybne;34
-Małopolskie;31;Sprzęt elektryczny;30
-Małopolskie;66;Usługi finansowe i ubezpieczeniowe;28
-Małopolskie;92;Usługi rekreacyjne i kulturalne;27
-Małopolskie;77;Usługi rolnicze i leśne;22
-Małopolskie;18;Odzież i obuwie;21
-Małopolskie;63;Usługi spedycji i logistyki;21
-Małopolskie;24;Produkty chemiczne;21
-Małopolskie;64;Usługi pocztowe i telekomunikacyjne;18
-Małopolskie;98;Pozostałe usługi komunalne i osobiste;17
-Małopolskie;37;Sprzęt sportowy i rekreacyjny;15
-Małopolskie;35;Sprzęt bezpieczeństwa i ochrony;14
-Małopolskie;14;Górnictwo i minerały;14
-Małopolskie;16;Maszyny rolnicze;11
-Małopolskie;70;Usługi w zakresie nieruchomości;8
-Małopolskie;73;Usługi badawczo-rozwojowe;8
-Małopolskie;43;Maszyny górnicze;7
-Małopolskie;75;Usługi administracji publicznej;6
-Małopolskie;22;Drukowane materiały i produkty poligraficzne;6
-Małopolskie;51;Usługi instalacyjne;5
-Małopolskie;19;Wyroby skórzane i tekstylne;4
-Małopolskie;76;Usługi związane z przemysłem naftowym;1
-Małopolskie;41;Woda i usługi wodne;1
-Małopolskie;65;Usługi komunalne (gaz, woda, energia);1
-Mazowieckie;45;Roboty budowlane;3158
-Mazowieckie;71;Usługi architektoniczne i inżynieryjne;568
-Mazowieckie;33;Sprzęt medyczny i farmaceutyczny;547
-Mazowieckie;30;Sprzęt komputerowy i biurowy;412
-Mazowieckie;79;Usługi biznesowe i doradcze;375
-Mazowieckie;34;Sprzęt transportowy i pojazdy;293
-Mazowieckie;9;Produkty naftowe, paliwa i energia;280
-Mazowieckie;55;Usługi hotelarskie i restauracyjne;251
-Mazowieckie;90;Usługi środowiskowe i sanitarne;237
-Mazowieckie;39;Meble i wyposażenie wnętrz;233
-Mazowieckie;38;Sprzęt laboratoryjny i naukowy;199
-Mazowieckie;48;Pakiety oprogramowania;198
-Mazowieckie;60;Usługi transportu drogowego;189
-Mazowieckie;15;Artykuły spożywcze i napoje;175
-Mazowieckie;80;Usługi edukacyjne;170
-Mazowieckie;50;Usługi napraw i konserwacji;170
-Mazowieckie;72;Usługi informatyczne;158
-Mazowieckie;32;Sprzęt elektroniczny i telekomunikacyjny;117
-Mazowieckie;85;Usługi zdrowotne i społeczne;115
-Mazowieckie;31;Sprzęt elektryczny;98
-Mazowieckie;77;Usługi rolnicze i leśne;75
-Mazowieckie;66;Usługi finansowe i ubezpieczeniowe;75
-Mazowieckie;44;Materiały budowlane;74
-Mazowieckie;64;Usługi pocztowe i telekomunikacyjne;65
-Mazowieckie;42;Maszyny przemysłowe;64
-Mazowieckie;92;Usługi rekreacyjne i kulturalne;62
-Mazowieckie;22;Drukowane materiały i produkty poligraficzne;52
-Mazowieckie;18;Odzież i obuwie;46
-Mazowieckie;24;Produkty chemiczne;44
-Mazowieckie;73;Usługi badawczo-rozwojowe;33
-Mazowieckie;37;Sprzęt sportowy i rekreacyjny;30
-Mazowieckie;3;Produkty rolne, łowieckie i rybne;30
-Mazowieckie;63;Usługi spedycji i logistyki;29
-Mazowieckie;14;Górnictwo i minerały;27
-Mazowieckie;35;Sprzęt bezpieczeństwa i ochrony;26
-Mazowieckie;98;Pozostałe usługi komunalne i osobiste;24
-Mazowieckie;43;Maszyny górnicze;17
-Mazowieckie;16;Maszyny rolnicze;16
-Mazowieckie;70;Usługi w zakresie nieruchomości;14
-Mazowieckie;19;Wyroby skórzane i tekstylne;12
-Mazowieckie;51;Usługi instalacyjne;12
-Mazowieckie;75;Usługi administracji publicznej;11
-Mazowieckie;41;Woda i usługi wodne;4
-Mazowieckie;65;Usługi komunalne (gaz, woda, energia);3
-Opolskie;45;Roboty budowlane;541
-Opolskie;33;Sprzęt medyczny i farmaceutyczny;117
-Opolskie;30;Sprzęt komputerowy i biurowy;81
-Opolskie;71;Usługi architektoniczne i inżynieryjne;60
-Opolskie;9;Produkty naftowe, paliwa i energia;50
-Opolskie;34;Sprzęt transportowy i pojazdy;47
-Opolskie;15;Artykuły spożywcze i napoje;46
-Opolskie;39;Meble i wyposażenie wnętrz;35
-Opolskie;80;Usługi edukacyjne;33
-Opolskie;79;Usługi biznesowe i doradcze;29
-Opolskie;90;Usługi środowiskowe i sanitarne;28
-Opolskie;60;Usługi transportu drogowego;27
-Opolskie;77;Usługi rolnicze i leśne;23
-Opolskie;48;Pakiety oprogramowania;17
-Opolskie;63;Usługi spedycji i logistyki;16
-Opolskie;32;Sprzęt elektroniczny i telekomunikacyjny;16
-Opolskie;55;Usługi hotelarskie i restauracyjne;15
-Opolskie;44;Materiały budowlane;15
-Opolskie;85;Usługi zdrowotne i społeczne;13
-Opolskie;98;Pozostałe usługi komunalne i osobiste;11
-Opolskie;72;Usługi informatyczne;11
-Opolskie;38;Sprzęt laboratoryjny i naukowy;10
-Opolskie;66;Usługi finansowe i ubezpieczeniowe;10
-Opolskie;50;Usługi napraw i konserwacji;9
-Opolskie;42;Maszyny przemysłowe;9
-Opolskie;3;Produkty rolne, łowieckie i rybne;8
-Opolskie;37;Sprzęt sportowy i rekreacyjny;5
-Opolskie;14;Górnictwo i minerały;4
-Opolskie;22;Drukowane materiały i produkty poligraficzne;4
-Opolskie;64;Usługi pocztowe i telekomunikacyjne;4
-Opolskie;18;Odzież i obuwie;3
-Opolskie;92;Usługi rekreacyjne i kulturalne;3
-Opolskie;31;Sprzęt elektryczny;3
-Opolskie;24;Produkty chemiczne;3
-Opolskie;19;Wyroby skórzane i tekstylne;2
-Opolskie;16;Maszyny rolnicze;2
-Opolskie;43;Maszyny górnicze;2
-Opolskie;65;Usługi komunalne (gaz, woda, energia);2
-Opolskie;75;Usługi administracji publicznej;1
-Podkarpackie;45;Roboty budowlane;1253
-Podkarpackie;71;Usługi architektoniczne i inżynieryjne;204
-Podkarpackie;33;Sprzęt medyczny i farmaceutyczny;196
-Podkarpackie;30;Sprzęt komputerowy i biurowy;184
-Podkarpackie;15;Artykuły spożywcze i napoje;134
-Podkarpackie;34;Sprzęt transportowy i pojazdy;108
-Podkarpackie;90;Usługi środowiskowe i sanitarne;83
-Podkarpackie;39;Meble i wyposażenie wnętrz;74
-Podkarpackie;9;Produkty naftowe, paliwa i energia;67
-Podkarpackie;60;Usługi transportu drogowego;59
-Podkarpackie;55;Usługi hotelarskie i restauracyjne;46
-Podkarpackie;48;Pakiety oprogramowania;43
-Podkarpackie;38;Sprzęt laboratoryjny i naukowy;42
-Podkarpackie;79;Usługi biznesowe i doradcze;31
-Podkarpackie;80;Usługi edukacyjne;28
-Podkarpackie;32;Sprzęt elektroniczny i telekomunikacyjny;28
-Podkarpackie;50;Usługi napraw i konserwacji;26
-Podkarpackie;3;Produkty rolne, łowieckie i rybne;25
-Podkarpackie;85;Usługi zdrowotne i społeczne;22
-Podkarpackie;42;Maszyny przemysłowe;20
-Podkarpackie;44;Materiały budowlane;19
-Podkarpackie;66;Usługi finansowe i ubezpieczeniowe;18
-Podkarpackie;77;Usługi rolnicze i leśne;16
-Podkarpackie;31;Sprzęt elektryczny;16
-Podkarpackie;72;Usługi informatyczne;15
-Podkarpackie;14;Górnictwo i minerały;14
-Podkarpackie;24;Produkty chemiczne;13
-Podkarpackie;18;Odzież i obuwie;13
-Podkarpackie;16;Maszyny rolnicze;12
-Podkarpackie;37;Sprzęt sportowy i rekreacyjny;11
-Podkarpackie;43;Maszyny górnicze;10
-Podkarpackie;70;Usługi w zakresie nieruchomości;6
-Podkarpackie;64;Usługi pocztowe i telekomunikacyjne;6
-Podkarpackie;35;Sprzęt bezpieczeństwa i ochrony;5
-Podkarpackie;98;Pozostałe usługi komunalne i osobiste;5
-Podkarpackie;73;Usługi badawczo-rozwojowe;4
-Podkarpackie;22;Drukowane materiały i produkty poligraficzne;4
-Podkarpackie;19;Wyroby skórzane i tekstylne;3
-Podkarpackie;75;Usługi administracji publicznej;3
-Podkarpackie;63;Usługi spedycji i logistyki;3
-Podkarpackie;92;Usługi rekreacyjne i kulturalne;1
-Podkarpackie;41;Woda i usługi wodne;1
-Podlaskie;45;Roboty budowlane;673
-Podlaskie;33;Sprzęt medyczny i farmaceutyczny;123
-Podlaskie;71;Usługi architektoniczne i inżynieryjne;118
-Podlaskie;30;Sprzęt komputerowy i biurowy;111
-Podlaskie;34;Sprzęt transportowy i pojazdy;71
-Podlaskie;9;Produkty naftowe, paliwa i energia;61
-Podlaskie;80;Usługi edukacyjne;61
-Podlaskie;90;Usługi środowiskowe i sanitarne;58
-Podlaskie;39;Meble i wyposażenie wnętrz;55
-Podlaskie;15;Artykuły spożywcze i napoje;49
-Podlaskie;48;Pakiety oprogramowania;26
-Podlaskie;60;Usługi transportu drogowego;24
-Podlaskie;55;Usługi hotelarskie i restauracyjne;24
-Podlaskie;38;Sprzęt laboratoryjny i naukowy;24
-Podlaskie;32;Sprzęt elektroniczny i telekomunikacyjny;23
-Podlaskie;44;Materiały budowlane;23
-Podlaskie;79;Usługi biznesowe i doradcze;20
-Podlaskie;50;Usługi napraw i konserwacji;16
-Podlaskie;66;Usługi finansowe i ubezpieczeniowe;16
-Podlaskie;43;Maszyny górnicze;14
-Podlaskie;77;Usługi rolnicze i leśne;14
-Podlaskie;31;Sprzęt elektryczny;14
-Podlaskie;42;Maszyny przemysłowe;14
-Podlaskie;14;Górnictwo i minerały;13
-Podlaskie;24;Produkty chemiczne;9
-Podlaskie;72;Usługi informatyczne;9
-Podlaskie;3;Produkty rolne, łowieckie i rybne;8
-Podlaskie;85;Usługi zdrowotne i społeczne;8
-Podlaskie;18;Odzież i obuwie;7
-Podlaskie;16;Maszyny rolnicze;7
-Podlaskie;37;Sprzęt sportowy i rekreacyjny;6
-Podlaskie;63;Usługi spedycji i logistyki;6
-Podlaskie;70;Usługi w zakresie nieruchomości;5
-Podlaskie;73;Usługi badawczo-rozwojowe;5
-Podlaskie;92;Usługi rekreacyjne i kulturalne;5
-Podlaskie;98;Pozostałe usługi komunalne i osobiste;4
-Podlaskie;64;Usługi pocztowe i telekomunikacyjne;4
-Podlaskie;35;Sprzęt bezpieczeństwa i ochrony;2
-Podlaskie;19;Wyroby skórzane i tekstylne;2
-Podlaskie;22;Drukowane materiały i produkty poligraficzne;2
-Pomorskie;45;Roboty budowlane;1079
-Pomorskie;71;Usługi architektoniczne i inżynieryjne;221
-Pomorskie;30;Sprzęt komputerowy i biurowy;157
-Pomorskie;33;Sprzęt medyczny i farmaceutyczny;139
-Pomorskie;80;Usługi edukacyjne;123
-Pomorskie;15;Artykuły spożywcze i napoje;94
-Pomorskie;34;Sprzęt transportowy i pojazdy;85
-Pomorskie;39;Meble i wyposażenie wnętrz;83
-Pomorskie;9;Produkty naftowe, paliwa i energia;76
-Pomorskie;90;Usługi środowiskowe i sanitarne;65
-Pomorskie;38;Sprzęt laboratoryjny i naukowy;65
-Pomorskie;55;Usługi hotelarskie i restauracyjne;61
-Pomorskie;79;Usługi biznesowe i doradcze;58
-Pomorskie;60;Usługi transportu drogowego;56
-Pomorskie;77;Usługi rolnicze i leśne;40
-Pomorskie;48;Pakiety oprogramowania;40
-Pomorskie;85;Usługi zdrowotne i społeczne;39
-Pomorskie;50;Usługi napraw i konserwacji;38
-Pomorskie;44;Materiały budowlane;38
-Pomorskie;32;Sprzęt elektroniczny i telekomunikacyjny;32
-Pomorskie;42;Maszyny przemysłowe;31
-Pomorskie;3;Produkty rolne, łowieckie i rybne;30
-Pomorskie;66;Usługi finansowe i ubezpieczeniowe;28
-Pomorskie;31;Sprzęt elektryczny;25
-Pomorskie;37;Sprzęt sportowy i rekreacyjny;23
-Pomorskie;72;Usługi informatyczne;19
-Pomorskie;63;Usługi spedycji i logistyki;16
-Pomorskie;22;Drukowane materiały i produkty poligraficzne;16
-Pomorskie;98;Pozostałe usługi komunalne i osobiste;16
-Pomorskie;64;Usługi pocztowe i telekomunikacyjne;11
-Pomorskie;24;Produkty chemiczne;10
-Pomorskie;35;Sprzęt bezpieczeństwa i ochrony;9
-Pomorskie;14;Górnictwo i minerały;9
-Pomorskie;18;Odzież i obuwie;8
-Pomorskie;43;Maszyny górnicze;8
-Pomorskie;73;Usługi badawczo-rozwojowe;6
-Pomorskie;92;Usługi rekreacyjne i kulturalne;6
-Pomorskie;16;Maszyny rolnicze;4
-Pomorskie;19;Wyroby skórzane i tekstylne;4
-Pomorskie;70;Usługi w zakresie nieruchomości;3
-Pomorskie;51;Usługi instalacyjne;3
-Pomorskie;75;Usługi administracji publicznej;3
-Pomorskie;65;Usługi komunalne (gaz, woda, energia);3
-Śląskie;45;Roboty budowlane;1940
-Śląskie;71;Usługi architektoniczne i inżynieryjne;373
-Śląskie;33;Sprzęt medyczny i farmaceutyczny;299
-Śląskie;15;Artykuły spożywcze i napoje;168
-Śląskie;30;Sprzęt komputerowy i biurowy;164
-Śląskie;90;Usługi środowiskowe i sanitarne;149
-Śląskie;9;Produkty naftowe, paliwa i energia;123
-Śląskie;34;Sprzęt transportowy i pojazdy;121
-Śląskie;60;Usługi transportu drogowego;121
-Śląskie;79;Usługi biznesowe i doradcze;104
-Śląskie;80;Usługi edukacyjne;99
-Śląskie;39;Meble i wyposażenie wnętrz;95
-Śląskie;55;Usługi hotelarskie i restauracyjne;71
-Śląskie;48;Pakiety oprogramowania;71
-Śląskie;50;Usługi napraw i konserwacji;60
-Śląskie;38;Sprzęt laboratoryjny i naukowy;51
-Śląskie;85;Usługi zdrowotne i społeczne;46
-Śląskie;44;Materiały budowlane;43
-Śląskie;77;Usługi rolnicze i leśne;40
-Śląskie;66;Usługi finansowe i ubezpieczeniowe;39
-Śląskie;72;Usługi informatyczne;39
-Śląskie;42;Maszyny przemysłowe;36
-Śląskie;24;Produkty chemiczne;31
-Śląskie;3;Produkty rolne, łowieckie i rybne;30
-Śląskie;37;Sprzęt sportowy i rekreacyjny;28
-Śląskie;32;Sprzęt elektroniczny i telekomunikacyjny;26
-Śląskie;31;Sprzęt elektryczny;25
-Śląskie;70;Usługi w zakresie nieruchomości;24
-Śląskie;98;Pozostałe usługi komunalne i osobiste;19
-Śląskie;22;Drukowane materiały i produkty poligraficzne;17
-Śląskie;18;Odzież i obuwie;16
-Śląskie;14;Górnictwo i minerały;16
-Śląskie;64;Usługi pocztowe i telekomunikacyjne;14
-Śląskie;43;Maszyny górnicze;12
-Śląskie;92;Usługi rekreacyjne i kulturalne;12
-Śląskie;63;Usługi spedycji i logistyki;8
-Śląskie;75;Usługi administracji publicznej;7
-Śląskie;73;Usługi badawczo-rozwojowe;7
-Śląskie;19;Wyroby skórzane i tekstylne;6
-Śląskie;16;Maszyny rolnicze;6
-Śląskie;35;Sprzęt bezpieczeństwa i ochrony;6
-Śląskie;51;Usługi instalacyjne;3
-Śląskie;65;Usługi komunalne (gaz, woda, energia);2
-Śląskie;41;Woda i usługi wodne;2
-Śląskie;76;Usługi związane z przemysłem naftowym;1
-Świętokrzyskie;45;Roboty budowlane;698
-Świętokrzyskie;33;Sprzęt medyczny i farmaceutyczny;163
-Świętokrzyskie;71;Usługi architektoniczne i inżynieryjne;113
-Świętokrzyskie;30;Sprzęt komputerowy i biurowy;81
-Świętokrzyskie;34;Sprzęt transportowy i pojazdy;77
-Świętokrzyskie;9;Produkty naftowe, paliwa i energia;71
-Świętokrzyskie;60;Usługi transportu drogowego;70
-Świętokrzyskie;90;Usługi środowiskowe i sanitarne;58
-Świętokrzyskie;15;Artykuły spożywcze i napoje;38
-Świętokrzyskie;39;Meble i wyposażenie wnętrz;37
-Świętokrzyskie;80;Usługi edukacyjne;35
-Świętokrzyskie;50;Usługi napraw i konserwacji;29
-Świętokrzyskie;79;Usługi biznesowe i doradcze;24
-Świętokrzyskie;32;Sprzęt elektroniczny i telekomunikacyjny;19
-Świętokrzyskie;73;Usługi badawczo-rozwojowe;17
-Świętokrzyskie;31;Sprzęt elektryczny;17
-Świętokrzyskie;63;Usługi spedycji i logistyki;17
-Świętokrzyskie;55;Usługi hotelarskie i restauracyjne;17
-Świętokrzyskie;38;Sprzęt laboratoryjny i naukowy;16
-Świętokrzyskie;44;Materiały budowlane;16
-Świętokrzyskie;48;Pakiety oprogramowania;15
-Świętokrzyskie;72;Usługi informatyczne;12
-Świętokrzyskie;66;Usługi finansowe i ubezpieczeniowe;11
-Świętokrzyskie;24;Produkty chemiczne;11
-Świętokrzyskie;85;Usługi zdrowotne i społeczne;9
-Świętokrzyskie;64;Usługi pocztowe i telekomunikacyjne;8
-Świętokrzyskie;70;Usługi w zakresie nieruchomości;7
-Świętokrzyskie;14;Górnictwo i minerały;7
-Świętokrzyskie;42;Maszyny przemysłowe;6
-Świętokrzyskie;16;Maszyny rolnicze;6
-Świętokrzyskie;77;Usługi rolnicze i leśne;6
-Świętokrzyskie;18;Odzież i obuwie;6
-Świętokrzyskie;3;Produkty rolne, łowieckie i rybne;5
-Świętokrzyskie;43;Maszyny górnicze;5
-Świętokrzyskie;98;Pozostałe usługi komunalne i osobiste;4
-Świętokrzyskie;37;Sprzęt sportowy i rekreacyjny;3
-Świętokrzyskie;35;Sprzęt bezpieczeństwa i ochrony;3
-Świętokrzyskie;92;Usługi rekreacyjne i kulturalne;2
-Świętokrzyskie;51;Usługi instalacyjne;1
-Świętokrzyskie;22;Drukowane materiały i produkty poligraficzne;1
-Warmińsko-mazurskie;45;Roboty budowlane;678
-Warmińsko-mazurskie;33;Sprzęt medyczny i farmaceutyczny;168
-Warmińsko-mazurskie;30;Sprzęt komputerowy i biurowy;153
-Warmińsko-mazurskie;71;Usługi architektoniczne i inżynieryjne;91
-Warmińsko-mazurskie;9;Produkty naftowe, paliwa i energia;81
-Warmińsko-mazurskie;34;Sprzęt transportowy i pojazdy;79
-Warmińsko-mazurskie;15;Artykuły spożywcze i napoje;57
-Warmińsko-mazurskie;60;Usługi transportu drogowego;45
-Warmińsko-mazurskie;39;Meble i wyposażenie wnętrz;44
-Warmińsko-mazurskie;55;Usługi hotelarskie i restauracyjne;43
-Warmińsko-mazurskie;90;Usługi środowiskowe i sanitarne;42
-Warmińsko-mazurskie;48;Pakiety oprogramowania;38
-Warmińsko-mazurskie;38;Sprzęt laboratoryjny i naukowy;37
-Warmińsko-mazurskie;79;Usługi biznesowe i doradcze;31
-Warmińsko-mazurskie;44;Materiały budowlane;25
-Warmińsko-mazurskie;80;Usługi edukacyjne;23
-Warmińsko-mazurskie;3;Produkty rolne, łowieckie i rybne;23
-Warmińsko-mazurskie;16;Maszyny rolnicze;20
-Warmińsko-mazurskie;32;Sprzęt elektroniczny i telekomunikacyjny;19
-Warmińsko-mazurskie;77;Usługi rolnicze i leśne;18
-Warmińsko-mazurskie;42;Maszyny przemysłowe;18
-Warmińsko-mazurskie;50;Usługi napraw i konserwacji;18
-Warmińsko-mazurskie;14;Górnictwo i minerały;16
-Warmińsko-mazurskie;37;Sprzęt sportowy i rekreacyjny;16
-Warmińsko-mazurskie;31;Sprzęt elektryczny;16
-Warmińsko-mazurskie;24;Produkty chemiczne;13
-Warmińsko-mazurskie;43;Maszyny górnicze;13
-Warmińsko-mazurskie;85;Usługi zdrowotne i społeczne;12
-Warmińsko-mazurskie;66;Usługi finansowe i ubezpieczeniowe;12
-Warmińsko-mazurskie;64;Usługi pocztowe i telekomunikacyjne;8
-Warmińsko-mazurskie;73;Usługi badawczo-rozwojowe;7
-Warmińsko-mazurskie;35;Sprzęt bezpieczeństwa i ochrony;7
-Warmińsko-mazurskie;22;Drukowane materiały i produkty poligraficzne;5
-Warmińsko-mazurskie;72;Usługi informatyczne;5
-Warmińsko-mazurskie;98;Pozostałe usługi komunalne i osobiste;5
-Warmińsko-mazurskie;70;Usługi w zakresie nieruchomości;4
-Warmińsko-mazurskie;18;Odzież i obuwie;3
-Warmińsko-mazurskie;63;Usługi spedycji i logistyki;2
-Warmińsko-mazurskie;92;Usługi rekreacyjne i kulturalne;2
-Warmińsko-mazurskie;19;Wyroby skórzane i tekstylne;2
-Warmińsko-mazurskie;51;Usługi instalacyjne;1
-Wielkopolskie;45;Roboty budowlane;1699
-Wielkopolskie;33;Sprzęt medyczny i farmaceutyczny;295
-Wielkopolskie;30;Sprzęt komputerowy i biurowy;288
-Wielkopolskie;71;Usługi architektoniczne i inżynieryjne;227
-Wielkopolskie;60;Usługi transportu drogowego;168
-Wielkopolskie;9;Produkty naftowe, paliwa i energia;137
-Wielkopolskie;90;Usługi środowiskowe i sanitarne;116
-Wielkopolskie;15;Artykuły spożywcze i napoje;107
-Wielkopolskie;39;Meble i wyposażenie wnętrz;99
-Wielkopolskie;34;Sprzęt transportowy i pojazdy;95
-Wielkopolskie;79;Usługi biznesowe i doradcze;73
-Wielkopolskie;24;Produkty chemiczne;65
-Wielkopolskie;55;Usługi hotelarskie i restauracyjne;54
-Wielkopolskie;38;Sprzęt laboratoryjny i naukowy;50
-Wielkopolskie;77;Usługi rolnicze i leśne;47
-Wielkopolskie;3;Produkty rolne, łowieckie i rybne;44
-Wielkopolskie;85;Usługi zdrowotne i społeczne;36
-Wielkopolskie;50;Usługi napraw i konserwacji;36
-Wielkopolskie;66;Usługi finansowe i ubezpieczeniowe;35
-Wielkopolskie;48;Pakiety oprogramowania;35
-Wielkopolskie;80;Usługi edukacyjne;33
-Wielkopolskie;72;Usługi informatyczne;33
-Wielkopolskie;44;Materiały budowlane;30
-Wielkopolskie;42;Maszyny przemysłowe;29
-Wielkopolskie;32;Sprzęt elektroniczny i telekomunikacyjny;29
-Wielkopolskie;98;Pozostałe usługi komunalne i osobiste;26
-Wielkopolskie;31;Sprzęt elektryczny;21
-Wielkopolskie;18;Odzież i obuwie;17
-Wielkopolskie;64;Usługi pocztowe i telekomunikacyjne;14
-Wielkopolskie;37;Sprzęt sportowy i rekreacyjny;14
-Wielkopolskie;16;Maszyny rolnicze;12
-Wielkopolskie;63;Usługi spedycji i logistyki;10
-Wielkopolskie;43;Maszyny górnicze;9
-Wielkopolskie;22;Drukowane materiały i produkty poligraficzne;9
-Wielkopolskie;14;Górnictwo i minerały;8
-Wielkopolskie;19;Wyroby skórzane i tekstylne;7
-Wielkopolskie;73;Usługi badawczo-rozwojowe;5
-Wielkopolskie;92;Usługi rekreacyjne i kulturalne;3
-Wielkopolskie;35;Sprzęt bezpieczeństwa i ochrony;2
-Wielkopolskie;51;Usługi instalacyjne;2
-Wielkopolskie;65;Usługi komunalne (gaz, woda, energia);2
-Zachodniopomorskie;45;Roboty budowlane;966
-Zachodniopomorskie;33;Sprzęt medyczny i farmaceutyczny;138
-Zachodniopomorskie;30;Sprzęt komputerowy i biurowy;135
-Zachodniopomorskie;71;Usługi architektoniczne i inżynieryjne;121
-Zachodniopomorskie;34;Sprzęt transportowy i pojazdy;111
-Zachodniopomorskie;15;Artykuły spożywcze i napoje;67
-Zachodniopomorskie;90;Usługi środowiskowe i sanitarne;61
-Zachodniopomorskie;60;Usługi transportu drogowego;56
-Zachodniopomorskie;80;Usługi edukacyjne;53
-Zachodniopomorskie;55;Usługi hotelarskie i restauracyjne;52
-Zachodniopomorskie;9;Produkty naftowe, paliwa i energia;51
-Zachodniopomorskie;79;Usługi biznesowe i doradcze;46
-Zachodniopomorskie;39;Meble i wyposażenie wnętrz;38
-Zachodniopomorskie;50;Usługi napraw i konserwacji;32
-Zachodniopomorskie;85;Usługi zdrowotne i społeczne;28
-Zachodniopomorskie;38;Sprzęt laboratoryjny i naukowy;28
-Zachodniopomorskie;42;Maszyny przemysłowe;24
-Zachodniopomorskie;44;Materiały budowlane;23
-Zachodniopomorskie;66;Usługi finansowe i ubezpieczeniowe;23
-Zachodniopomorskie;77;Usługi rolnicze i leśne;20
-Zachodniopomorskie;48;Pakiety oprogramowania;20
-Zachodniopomorskie;32;Sprzęt elektroniczny i telekomunikacyjny;17
-Zachodniopomorskie;3;Produkty rolne, łowieckie i rybne;16
-Zachodniopomorskie;18;Odzież i obuwie;16
-Zachodniopomorskie;14;Górnictwo i minerały;13
-Zachodniopomorskie;72;Usługi informatyczne;11
-Zachodniopomorskie;98;Pozostałe usługi komunalne i osobiste;11
-Zachodniopomorskie;22;Drukowane materiały i produkty poligraficzne;9
-Zachodniopomorskie;16;Maszyny rolnicze;8
-Zachodniopomorskie;24;Produkty chemiczne;8
-Zachodniopomorskie;31;Sprzęt elektryczny;6
-Zachodniopomorskie;64;Usługi pocztowe i telekomunikacyjne;5
-Zachodniopomorskie;63;Usługi spedycji i logistyki;4
-Zachodniopomorskie;43;Maszyny górnicze;4
-Zachodniopomorskie;75;Usługi administracji publicznej;3
-Zachodniopomorskie;35;Sprzęt bezpieczeństwa i ochrony;3
-Zachodniopomorskie;37;Sprzęt sportowy i rekreacyjny;3
-Zachodniopomorskie;92;Usługi rekreacyjne i kulturalne;2
-Zachodniopomorskie;73;Usługi badawczo-rozwojowe;1
-Zachodniopomorskie;51;Usługi instalacyjne;1
-Zachodniopomorskie;19;Wyroby skórzane i tekstylne;1
-Zachodniopomorskie;70;Usługi w zakresie nieruchomości;1
+Dolnośląskie;45;Roboty budowlane;12147
+Dolnośląskie;33;Sprzęt medyczny i farmaceutyczny;2374
+Dolnośląskie;71;Usługi architektoniczne i inżynieryjne;2182
+Dolnośląskie;15;Artykuły spożywcze i napoje;1888
+Dolnośląskie;90;Usługi środowiskowe i sanitarne;1627
+Dolnośląskie;9;Produkty naftowe, paliwa i energia;1452
+Dolnośląskie;34;Sprzęt transportowy i pojazdy;1413
+Dolnośląskie;39;Meble i wyposażenie wnętrz;1235
+Dolnośląskie;30;Sprzęt komputerowy i biurowy;1213
+Dolnośląskie;55;Usługi hotelarskie i restauracyjne;1135
+Dolnośląskie;79;Usługi biznesowe i doradcze;976
+Dolnośląskie;60;Usługi transportu drogowego;727
+Dolnośląskie;50;Usługi napraw i konserwacji;653
+Dolnośląskie;38;Sprzęt laboratoryjny i naukowy;644
+Dolnośląskie;66;Usługi finansowe i ubezpieczeniowe;594
+Dolnośląskie;77;Usługi rolnicze i leśne;581
+Dolnośląskie;48;Pakiety oprogramowania;516
+Dolnośląskie;85;Usługi zdrowotne i społeczne;496
+Dolnośląskie;44;Materiały budowlane;344
+Dolnośląskie;72;Usługi informatyczne;332
+Dolnośląskie;64;Usługi pocztowe i telekomunikacyjne;328
+Dolnośląskie;31;Sprzęt elektryczny;314
+Dolnośląskie;42;Maszyny przemysłowe;307
+Dolnośląskie;80;Usługi edukacyjne;304
+Dolnośląskie;32;Sprzęt elektroniczny i telekomunikacyjny;262
+Dolnośląskie;3;Produkty rolne, łowieckie i rybne;226
+Dolnośląskie;24;Produkty chemiczne;204
+Dolnośląskie;18;Odzież i obuwie;187
+Dolnośląskie;22;Drukowane materiały i produkty poligraficzne;181
+Dolnośląskie;98;Pozostałe usługi komunalne i osobiste;180
+Dolnośląskie;43;Maszyny górnicze;157
+Dolnośląskie;16;Maszyny rolnicze;156
+Dolnośląskie;37;Sprzęt sportowy i rekreacyjny;146
+Dolnośląskie;14;Górnictwo i minerały;142
+Dolnośląskie;35;Sprzęt bezpieczeństwa i ochrony;138
+Dolnośląskie;63;Usługi spedycji i logistyki;121
+Dolnośląskie;92;Usługi rekreacyjne i kulturalne;116
+Dolnośląskie;75;Usługi administracji publicznej;86
+Dolnośląskie;19;Wyroby skórzane i tekstylne;78
+Dolnośląskie;70;Usługi w zakresie nieruchomości;62
+Dolnośląskie;51;Usługi instalacyjne;33
+Dolnośląskie;73;Usługi badawczo-rozwojowe;21
+Dolnośląskie;65;Usługi komunalne (gaz, woda, energia);12
+Dolnośląskie;41;Woda i usługi wodne;8
+Kujawsko-pomorskie;45;Roboty budowlane;8181
+Kujawsko-pomorskie;33;Sprzęt medyczny i farmaceutyczny;2765
+Kujawsko-pomorskie;9;Produkty naftowe, paliwa i energia;1342
+Kujawsko-pomorskie;71;Usługi architektoniczne i inżynieryjne;1204
+Kujawsko-pomorskie;66;Usługi finansowe i ubezpieczeniowe;1098
+Kujawsko-pomorskie;90;Usługi środowiskowe i sanitarne;1095
+Kujawsko-pomorskie;34;Sprzęt transportowy i pojazdy;1062
+Kujawsko-pomorskie;30;Sprzęt komputerowy i biurowy;1023
+Kujawsko-pomorskie;15;Artykuły spożywcze i napoje;906
+Kujawsko-pomorskie;39;Meble i wyposażenie wnętrz;892
+Kujawsko-pomorskie;85;Usługi zdrowotne i społeczne;749
+Kujawsko-pomorskie;80;Usługi edukacyjne;609
+Kujawsko-pomorskie;79;Usługi biznesowe i doradcze;514
+Kujawsko-pomorskie;55;Usługi hotelarskie i restauracyjne;513
+Kujawsko-pomorskie;50;Usługi napraw i konserwacji;459
+Kujawsko-pomorskie;60;Usługi transportu drogowego;452
+Kujawsko-pomorskie;38;Sprzęt laboratoryjny i naukowy;344
+Kujawsko-pomorskie;44;Materiały budowlane;328
+Kujawsko-pomorskie;48;Pakiety oprogramowania;310
+Kujawsko-pomorskie;31;Sprzęt elektryczny;273
+Kujawsko-pomorskie;64;Usługi pocztowe i telekomunikacyjne;258
+Kujawsko-pomorskie;42;Maszyny przemysłowe;213
+Kujawsko-pomorskie;24;Produkty chemiczne;210
+Kujawsko-pomorskie;3;Produkty rolne, łowieckie i rybne;200
+Kujawsko-pomorskie;32;Sprzęt elektroniczny i telekomunikacyjny;194
+Kujawsko-pomorskie;77;Usługi rolnicze i leśne;193
+Kujawsko-pomorskie;14;Górnictwo i minerały;184
+Kujawsko-pomorskie;72;Usługi informatyczne;180
+Kujawsko-pomorskie;18;Odzież i obuwie;163
+Kujawsko-pomorskie;98;Pozostałe usługi komunalne i osobiste;144
+Kujawsko-pomorskie;16;Maszyny rolnicze;121
+Kujawsko-pomorskie;35;Sprzęt bezpieczeństwa i ochrony;120
+Kujawsko-pomorskie;37;Sprzęt sportowy i rekreacyjny;115
+Kujawsko-pomorskie;43;Maszyny górnicze;105
+Kujawsko-pomorskie;22;Drukowane materiały i produkty poligraficzne;72
+Kujawsko-pomorskie;63;Usługi spedycji i logistyki;69
+Kujawsko-pomorskie;70;Usługi w zakresie nieruchomości;59
+Kujawsko-pomorskie;92;Usługi rekreacyjne i kulturalne;58
+Kujawsko-pomorskie;19;Wyroby skórzane i tekstylne;38
+Kujawsko-pomorskie;73;Usługi badawczo-rozwojowe;31
+Kujawsko-pomorskie;75;Usługi administracji publicznej;18
+Kujawsko-pomorskie;51;Usługi instalacyjne;12
+Kujawsko-pomorskie;65;Usługi komunalne (gaz, woda, energia);9
+Kujawsko-pomorskie;41;Woda i usługi wodne;6
+Lubelskie;45;Roboty budowlane;10447
+Lubelskie;33;Sprzęt medyczny i farmaceutyczny;2626
+Lubelskie;71;Usługi architektoniczne i inżynieryjne;1798
+Lubelskie;90;Usługi środowiskowe i sanitarne;1486
+Lubelskie;9;Produkty naftowe, paliwa i energia;1435
+Lubelskie;34;Sprzęt transportowy i pojazdy;1371
+Lubelskie;15;Artykuły spożywcze i napoje;1314
+Lubelskie;80;Usługi edukacyjne;1251
+Lubelskie;30;Sprzęt komputerowy i biurowy;1202
+Lubelskie;39;Meble i wyposażenie wnętrz;1036
+Lubelskie;79;Usługi biznesowe i doradcze;718
+Lubelskie;60;Usługi transportu drogowego;673
+Lubelskie;55;Usługi hotelarskie i restauracyjne;566
+Lubelskie;48;Pakiety oprogramowania;547
+Lubelskie;31;Sprzęt elektryczny;450
+Lubelskie;66;Usługi finansowe i ubezpieczeniowe;439
+Lubelskie;50;Usługi napraw i konserwacji;437
+Lubelskie;38;Sprzęt laboratoryjny i naukowy;432
+Lubelskie;85;Usługi zdrowotne i społeczne;373
+Lubelskie;44;Materiały budowlane;353
+Lubelskie;24;Produkty chemiczne;310
+Lubelskie;14;Górnictwo i minerały;309
+Lubelskie;32;Sprzęt elektroniczny i telekomunikacyjny;295
+Lubelskie;3;Produkty rolne, łowieckie i rybne;246
+Lubelskie;72;Usługi informatyczne;225
+Lubelskie;42;Maszyny przemysłowe;207
+Lubelskie;16;Maszyny rolnicze;192
+Lubelskie;22;Drukowane materiały i produkty poligraficzne;189
+Lubelskie;77;Usługi rolnicze i leśne;179
+Lubelskie;43;Maszyny górnicze;175
+Lubelskie;64;Usługi pocztowe i telekomunikacyjne;165
+Lubelskie;18;Odzież i obuwie;160
+Lubelskie;98;Pozostałe usługi komunalne i osobiste;133
+Lubelskie;37;Sprzęt sportowy i rekreacyjny;128
+Lubelskie;35;Sprzęt bezpieczeństwa i ochrony;126
+Lubelskie;63;Usługi spedycji i logistyki;105
+Lubelskie;70;Usługi w zakresie nieruchomości;102
+Lubelskie;92;Usługi rekreacyjne i kulturalne;64
+Lubelskie;75;Usługi administracji publicznej;51
+Lubelskie;73;Usługi badawczo-rozwojowe;49
+Lubelskie;19;Wyroby skórzane i tekstylne;23
+Lubelskie;65;Usługi komunalne (gaz, woda, energia);20
+Lubelskie;51;Usługi instalacyjne;8
+Lubelskie;41;Woda i usługi wodne;5
+Lubuskie;45;Roboty budowlane;4758
+Lubuskie;33;Sprzęt medyczny i farmaceutyczny;796
+Lubuskie;71;Usługi architektoniczne i inżynieryjne;759
+Lubuskie;90;Usługi środowiskowe i sanitarne;661
+Lubuskie;34;Sprzęt transportowy i pojazdy;616
+Lubuskie;9;Produkty naftowe, paliwa i energia;515
+Lubuskie;30;Sprzęt komputerowy i biurowy;438
+Lubuskie;79;Usługi biznesowe i doradcze;382
+Lubuskie;55;Usługi hotelarskie i restauracyjne;362
+Lubuskie;80;Usługi edukacyjne;346
+Lubuskie;15;Artykuły spożywcze i napoje;320
+Lubuskie;39;Meble i wyposażenie wnętrz;312
+Lubuskie;60;Usługi transportu drogowego;269
+Lubuskie;85;Usługi zdrowotne i społeczne;243
+Lubuskie;50;Usługi napraw i konserwacji;170
+Lubuskie;66;Usługi finansowe i ubezpieczeniowe;159
+Lubuskie;48;Pakiety oprogramowania;144
+Lubuskie;64;Usługi pocztowe i telekomunikacyjne;135
+Lubuskie;31;Sprzęt elektryczny;130
+Lubuskie;77;Usługi rolnicze i leśne;123
+Lubuskie;44;Materiały budowlane;102
+Lubuskie;72;Usługi informatyczne;95
+Lubuskie;98;Pozostałe usługi komunalne i osobiste;85
+Lubuskie;42;Maszyny przemysłowe;83
+Lubuskie;38;Sprzęt laboratoryjny i naukowy;68
+Lubuskie;32;Sprzęt elektroniczny i telekomunikacyjny;66
+Lubuskie;43;Maszyny górnicze;64
+Lubuskie;16;Maszyny rolnicze;61
+Lubuskie;37;Sprzęt sportowy i rekreacyjny;51
+Lubuskie;3;Produkty rolne, łowieckie i rybne;46
+Lubuskie;35;Sprzęt bezpieczeństwa i ochrony;46
+Lubuskie;18;Odzież i obuwie;45
+Lubuskie;24;Produkty chemiczne;38
+Lubuskie;14;Górnictwo i minerały;35
+Lubuskie;75;Usługi administracji publicznej;32
+Lubuskie;73;Usługi badawczo-rozwojowe;23
+Lubuskie;22;Drukowane materiały i produkty poligraficzne;21
+Lubuskie;92;Usługi rekreacyjne i kulturalne;20
+Lubuskie;63;Usługi spedycji i logistyki;18
+Lubuskie;19;Wyroby skórzane i tekstylne;15
+Lubuskie;70;Usługi w zakresie nieruchomości;14
+Lubuskie;51;Usługi instalacyjne;8
+Lubuskie;65;Usługi komunalne (gaz, woda, energia);7
+Mazowieckie;45;Roboty budowlane;27632
+Mazowieckie;33;Sprzęt medyczny i farmaceutyczny;6395
+Mazowieckie;71;Usługi architektoniczne i inżynieryjne;5906
+Mazowieckie;79;Usługi biznesowe i doradcze;4817
+Mazowieckie;30;Sprzęt komputerowy i biurowy;3867
+Mazowieckie;90;Usługi środowiskowe i sanitarne;3738
+Mazowieckie;9;Produkty naftowe, paliwa i energia;3181
+Mazowieckie;34;Sprzęt transportowy i pojazdy;2918
+Mazowieckie;15;Artykuły spożywcze i napoje;2916
+Mazowieckie;39;Meble i wyposażenie wnętrz;2667
+Mazowieckie;55;Usługi hotelarskie i restauracyjne;2510
+Mazowieckie;50;Usługi napraw i konserwacji;2359
+Mazowieckie;48;Pakiety oprogramowania;2104
+Mazowieckie;72;Usługi informatyczne;1915
+Mazowieckie;38;Sprzęt laboratoryjny i naukowy;1799
+Mazowieckie;60;Usługi transportu drogowego;1578
+Mazowieckie;85;Usługi zdrowotne i społeczne;1481
+Mazowieckie;80;Usługi edukacyjne;1454
+Mazowieckie;32;Sprzęt elektroniczny i telekomunikacyjny;1142
+Mazowieckie;31;Sprzęt elektryczny;1132
+Mazowieckie;64;Usługi pocztowe i telekomunikacyjne;953
+Mazowieckie;66;Usługi finansowe i ubezpieczeniowe;941
+Mazowieckie;77;Usługi rolnicze i leśne;904
+Mazowieckie;44;Materiały budowlane;862
+Mazowieckie;42;Maszyny przemysłowe;803
+Mazowieckie;22;Drukowane materiały i produkty poligraficzne;569
+Mazowieckie;92;Usługi rekreacyjne i kulturalne;567
+Mazowieckie;18;Odzież i obuwie;500
+Mazowieckie;24;Produkty chemiczne;495
+Mazowieckie;98;Pozostałe usługi komunalne i osobiste;491
+Mazowieckie;3;Produkty rolne, łowieckie i rybne;450
+Mazowieckie;35;Sprzęt bezpieczeństwa i ochrony;419
+Mazowieckie;14;Górnictwo i minerały;384
+Mazowieckie;73;Usługi badawczo-rozwojowe;335
+Mazowieckie;63;Usługi spedycji i logistyki;333
+Mazowieckie;37;Sprzęt sportowy i rekreacyjny;285
+Mazowieckie;16;Maszyny rolnicze;280
+Mazowieckie;43;Maszyny górnicze;241
+Mazowieckie;75;Usługi administracji publicznej;154
+Mazowieckie;70;Usługi w zakresie nieruchomości;140
+Mazowieckie;19;Wyroby skórzane i tekstylne;110
+Mazowieckie;51;Usługi instalacyjne;82
+Mazowieckie;65;Usługi komunalne (gaz, woda, energia);58
+Mazowieckie;41;Woda i usługi wodne;30
+Mazowieckie;76;Usługi związane z przemysłem naftowym;1
+Małopolskie;45;Roboty budowlane;14758
+Małopolskie;33;Sprzęt medyczny i farmaceutyczny;4710
+Małopolskie;71;Usługi architektoniczne i inżynieryjne;3263
+Małopolskie;90;Usługi środowiskowe i sanitarne;2078
+Małopolskie;30;Sprzęt komputerowy i biurowy;1990
+Małopolskie;15;Artykuły spożywcze i napoje;1953
+Małopolskie;34;Sprzęt transportowy i pojazdy;1705
+Małopolskie;79;Usługi biznesowe i doradcze;1503
+Małopolskie;39;Meble i wyposażenie wnętrz;1443
+Małopolskie;9;Produkty naftowe, paliwa i energia;1344
+Małopolskie;55;Usługi hotelarskie i restauracyjne;1279
+Małopolskie;60;Usługi transportu drogowego;1196
+Małopolskie;38;Sprzęt laboratoryjny i naukowy;1008
+Małopolskie;80;Usługi edukacyjne;980
+Małopolskie;48;Pakiety oprogramowania;832
+Małopolskie;50;Usługi napraw i konserwacji;765
+Małopolskie;85;Usługi zdrowotne i społeczne;552
+Małopolskie;32;Sprzęt elektroniczny i telekomunikacyjny;522
+Małopolskie;66;Usługi finansowe i ubezpieczeniowe;461
+Małopolskie;42;Maszyny przemysłowe;456
+Małopolskie;31;Sprzęt elektryczny;441
+Małopolskie;44;Materiały budowlane;426
+Małopolskie;72;Usługi informatyczne;401
+Małopolskie;64;Usługi pocztowe i telekomunikacyjne;400
+Małopolskie;3;Produkty rolne, łowieckie i rybne;323
+Małopolskie;18;Odzież i obuwie;311
+Małopolskie;77;Usługi rolnicze i leśne;308
+Małopolskie;98;Pozostałe usługi komunalne i osobiste;304
+Małopolskie;24;Produkty chemiczne;272
+Małopolskie;14;Górnictwo i minerały;240
+Małopolskie;35;Sprzęt bezpieczeństwa i ochrony;218
+Małopolskie;92;Usługi rekreacyjne i kulturalne;212
+Małopolskie;16;Maszyny rolnicze;194
+Małopolskie;63;Usługi spedycji i logistyki;187
+Małopolskie;43;Maszyny górnicze;182
+Małopolskie;37;Sprzęt sportowy i rekreacyjny;135
+Małopolskie;22;Drukowane materiały i produkty poligraficzne;129
+Małopolskie;75;Usługi administracji publicznej;84
+Małopolskie;19;Wyroby skórzane i tekstylne;69
+Małopolskie;70;Usługi w zakresie nieruchomości;68
+Małopolskie;73;Usługi badawczo-rozwojowe;54
+Małopolskie;51;Usługi instalacyjne;32
+Małopolskie;41;Woda i usługi wodne;9
+Małopolskie;65;Usługi komunalne (gaz, woda, energia);7
+Małopolskie;76;Usługi związane z przemysłem naftowym;5
+Opolskie;45;Roboty budowlane;4591
+Opolskie;33;Sprzęt medyczny i farmaceutyczny;1260
+Opolskie;71;Usługi architektoniczne i inżynieryjne;784
+Opolskie;15;Artykuły spożywcze i napoje;652
+Opolskie;9;Produkty naftowe, paliwa i energia;641
+Opolskie;90;Usługi środowiskowe i sanitarne;604
+Opolskie;34;Sprzęt transportowy i pojazdy;603
+Opolskie;30;Sprzęt komputerowy i biurowy;555
+Opolskie;79;Usługi biznesowe i doradcze;396
+Opolskie;39;Meble i wyposażenie wnętrz;369
+Opolskie;80;Usługi edukacyjne;338
+Opolskie;60;Usługi transportu drogowego;262
+Opolskie;77;Usługi rolnicze i leśne;227
+Opolskie;55;Usługi hotelarskie i restauracyjne;204
+Opolskie;48;Pakiety oprogramowania;191
+Opolskie;66;Usługi finansowe i ubezpieczeniowe;187
+Opolskie;85;Usługi zdrowotne i społeczne;186
+Opolskie;38;Sprzęt laboratoryjny i naukowy;147
+Opolskie;3;Produkty rolne, łowieckie i rybne;133
+Opolskie;44;Materiały budowlane;128
+Opolskie;50;Usługi napraw i konserwacji;128
+Opolskie;32;Sprzęt elektroniczny i telekomunikacyjny;123
+Opolskie;42;Maszyny przemysłowe;117
+Opolskie;72;Usługi informatyczne;111
+Opolskie;31;Sprzęt elektryczny;100
+Opolskie;98;Pozostałe usługi komunalne i osobiste;98
+Opolskie;64;Usługi pocztowe i telekomunikacyjne;93
+Opolskie;63;Usługi spedycji i logistyki;78
+Opolskie;35;Sprzęt bezpieczeństwa i ochrony;66
+Opolskie;37;Sprzęt sportowy i rekreacyjny;52
+Opolskie;18;Odzież i obuwie;48
+Opolskie;16;Maszyny rolnicze;43
+Opolskie;24;Produkty chemiczne;41
+Opolskie;14;Górnictwo i minerały;39
+Opolskie;43;Maszyny górnicze;30
+Opolskie;22;Drukowane materiały i produkty poligraficzne;29
+Opolskie;92;Usługi rekreacyjne i kulturalne;28
+Opolskie;75;Usługi administracji publicznej;27
+Opolskie;70;Usługi w zakresie nieruchomości;13
+Opolskie;65;Usługi komunalne (gaz, woda, energia);12
+Opolskie;51;Usługi instalacyjne;8
+Opolskie;19;Wyroby skórzane i tekstylne;4
+Opolskie;73;Usługi badawczo-rozwojowe;2
+Podkarpackie;45;Roboty budowlane;10272
+Podkarpackie;33;Sprzęt medyczny i farmaceutyczny;2039
+Podkarpackie;71;Usługi architektoniczne i inżynieryjne;1826
+Podkarpackie;15;Artykuły spożywcze i napoje;1604
+Podkarpackie;90;Usługi środowiskowe i sanitarne;1526
+Podkarpackie;34;Sprzęt transportowy i pojazdy;1342
+Podkarpackie;30;Sprzęt komputerowy i biurowy;969
+Podkarpackie;39;Meble i wyposażenie wnętrz;920
+Podkarpackie;9;Produkty naftowe, paliwa i energia;912
+Podkarpackie;55;Usługi hotelarskie i restauracyjne;719
+Podkarpackie;60;Usługi transportu drogowego;544
+Podkarpackie;79;Usługi biznesowe i doradcze;476
+Podkarpackie;48;Pakiety oprogramowania;458
+Podkarpackie;80;Usługi edukacyjne;433
+Podkarpackie;66;Usługi finansowe i ubezpieczeniowe;401
+Podkarpackie;38;Sprzęt laboratoryjny i naukowy;388
+Podkarpackie;85;Usługi zdrowotne i społeczne;388
+Podkarpackie;44;Materiały budowlane;316
+Podkarpackie;31;Sprzęt elektryczny;303
+Podkarpackie;50;Usługi napraw i konserwacji;300
+Podkarpackie;77;Usługi rolnicze i leśne;289
+Podkarpackie;64;Usługi pocztowe i telekomunikacyjne;238
+Podkarpackie;18;Odzież i obuwie;230
+Podkarpackie;3;Produkty rolne, łowieckie i rybne;224
+Podkarpackie;42;Maszyny przemysłowe;190
+Podkarpackie;14;Górnictwo i minerały;187
+Podkarpackie;32;Sprzęt elektroniczny i telekomunikacyjny;178
+Podkarpackie;43;Maszyny górnicze;155
+Podkarpackie;72;Usługi informatyczne;154
+Podkarpackie;24;Produkty chemiczne;153
+Podkarpackie;16;Maszyny rolnicze;150
+Podkarpackie;35;Sprzęt bezpieczeństwa i ochrony;127
+Podkarpackie;98;Pozostałe usługi komunalne i osobiste;99
+Podkarpackie;37;Sprzęt sportowy i rekreacyjny;93
+Podkarpackie;70;Usługi w zakresie nieruchomości;78
+Podkarpackie;63;Usługi spedycji i logistyki;75
+Podkarpackie;73;Usługi badawczo-rozwojowe;53
+Podkarpackie;92;Usługi rekreacyjne i kulturalne;51
+Podkarpackie;22;Drukowane materiały i produkty poligraficzne;47
+Podkarpackie;75;Usługi administracji publicznej;37
+Podkarpackie;19;Wyroby skórzane i tekstylne;36
+Podkarpackie;65;Usługi komunalne (gaz, woda, energia);10
+Podkarpackie;41;Woda i usługi wodne;9
+Podkarpackie;51;Usługi instalacyjne;9
+Podkarpackie;76;Usługi związane z przemysłem naftowym;2
+Podlaskie;45;Roboty budowlane;6083
+Podlaskie;33;Sprzęt medyczny i farmaceutyczny;1276
+Podlaskie;71;Usługi architektoniczne i inżynieryjne;1275
+Podlaskie;9;Produkty naftowe, paliwa i energia;980
+Podlaskie;90;Usługi środowiskowe i sanitarne;959
+Podlaskie;34;Sprzęt transportowy i pojazdy;766
+Podlaskie;15;Artykuły spożywcze i napoje;765
+Podlaskie;30;Sprzęt komputerowy i biurowy;619
+Podlaskie;39;Meble i wyposażenie wnętrz;559
+Podlaskie;55;Usługi hotelarskie i restauracyjne;362
+Podlaskie;79;Usługi biznesowe i doradcze;347
+Podlaskie;80;Usługi edukacyjne;334
+Podlaskie;44;Materiały budowlane;298
+Podlaskie;50;Usługi napraw i konserwacji;281
+Podlaskie;48;Pakiety oprogramowania;280
+Podlaskie;31;Sprzęt elektryczny;256
+Podlaskie;66;Usługi finansowe i ubezpieczeniowe;234
+Podlaskie;14;Górnictwo i minerały;218
+Podlaskie;85;Usługi zdrowotne i społeczne;209
+Podlaskie;60;Usługi transportu drogowego;196
+Podlaskie;38;Sprzęt laboratoryjny i naukowy;184
+Podlaskie;77;Usługi rolnicze i leśne;166
+Podlaskie;32;Sprzęt elektroniczny i telekomunikacyjny;159
+Podlaskie;43;Maszyny górnicze;142
+Podlaskie;72;Usługi informatyczne;140
+Podlaskie;42;Maszyny przemysłowe;138
+Podlaskie;98;Pozostałe usługi komunalne i osobiste;132
+Podlaskie;16;Maszyny rolnicze;128
+Podlaskie;64;Usługi pocztowe i telekomunikacyjne;111
+Podlaskie;3;Produkty rolne, łowieckie i rybne;97
+Podlaskie;18;Odzież i obuwie;96
+Podlaskie;37;Sprzęt sportowy i rekreacyjny;96
+Podlaskie;24;Produkty chemiczne;88
+Podlaskie;92;Usługi rekreacyjne i kulturalne;63
+Podlaskie;70;Usługi w zakresie nieruchomości;60
+Podlaskie;35;Sprzęt bezpieczeństwa i ochrony;57
+Podlaskie;63;Usługi spedycji i logistyki;47
+Podlaskie;22;Drukowane materiały i produkty poligraficzne;40
+Podlaskie;73;Usługi badawczo-rozwojowe;21
+Podlaskie;19;Wyroby skórzane i tekstylne;14
+Podlaskie;75;Usługi administracji publicznej;10
+Podlaskie;51;Usługi instalacyjne;8
+Podlaskie;65;Usługi komunalne (gaz, woda, energia);5
+Podlaskie;41;Woda i usługi wodne;1
+Pomorskie;45;Roboty budowlane;8571
+Pomorskie;71;Usługi architektoniczne i inżynieryjne;2274
+Pomorskie;33;Sprzęt medyczny i farmaceutyczny;1669
+Pomorskie;15;Artykuły spożywcze i napoje;1574
+Pomorskie;90;Usługi środowiskowe i sanitarne;1371
+Pomorskie;34;Sprzęt transportowy i pojazdy;1139
+Pomorskie;30;Sprzęt komputerowy i biurowy;1075
+Pomorskie;9;Produkty naftowe, paliwa i energia;1002
+Pomorskie;80;Usługi edukacyjne;950
+Pomorskie;39;Meble i wyposażenie wnętrz;886
+Pomorskie;79;Usługi biznesowe i doradcze;866
+Pomorskie;85;Usługi zdrowotne i społeczne;819
+Pomorskie;55;Usługi hotelarskie i restauracyjne;714
+Pomorskie;50;Usługi napraw i konserwacji;669
+Pomorskie;38;Sprzęt laboratoryjny i naukowy;568
+Pomorskie;60;Usługi transportu drogowego;509
+Pomorskie;77;Usługi rolnicze i leśne;387
+Pomorskie;66;Usługi finansowe i ubezpieczeniowe;384
+Pomorskie;44;Materiały budowlane;370
+Pomorskie;48;Pakiety oprogramowania;351
+Pomorskie;31;Sprzęt elektryczny;310
+Pomorskie;32;Sprzęt elektroniczny i telekomunikacyjny;310
+Pomorskie;64;Usługi pocztowe i telekomunikacyjne;282
+Pomorskie;3;Produkty rolne, łowieckie i rybne;277
+Pomorskie;42;Maszyny przemysłowe;252
+Pomorskie;72;Usługi informatyczne;251
+Pomorskie;22;Drukowane materiały i produkty poligraficzne;166
+Pomorskie;37;Sprzęt sportowy i rekreacyjny;159
+Pomorskie;98;Pozostałe usługi komunalne i osobiste;148
+Pomorskie;24;Produkty chemiczne;140
+Pomorskie;63;Usługi spedycji i logistyki;136
+Pomorskie;18;Odzież i obuwie;119
+Pomorskie;43;Maszyny górnicze;115
+Pomorskie;14;Górnictwo i minerały;112
+Pomorskie;35;Sprzęt bezpieczeństwa i ochrony;109
+Pomorskie;16;Maszyny rolnicze;93
+Pomorskie;92;Usługi rekreacyjne i kulturalne;85
+Pomorskie;75;Usługi administracji publicznej;84
+Pomorskie;73;Usługi badawczo-rozwojowe;59
+Pomorskie;70;Usługi w zakresie nieruchomości;31
+Pomorskie;19;Wyroby skórzane i tekstylne;30
+Pomorskie;65;Usługi komunalne (gaz, woda, energia);25
+Pomorskie;51;Usługi instalacyjne;22
+Pomorskie;41;Woda i usługi wodne;8
+Warmińsko-mazurskie;45;Roboty budowlane;5996
+Warmińsko-mazurskie;33;Sprzęt medyczny i farmaceutyczny;1729
+Warmińsko-mazurskie;15;Artykuły spożywcze i napoje;1081
+Warmińsko-mazurskie;71;Usługi architektoniczne i inżynieryjne;1010
+Warmińsko-mazurskie;9;Produkty naftowe, paliwa i energia;916
+Warmińsko-mazurskie;90;Usługi środowiskowe i sanitarne;881
+Warmińsko-mazurskie;34;Sprzęt transportowy i pojazdy;843
+Warmińsko-mazurskie;30;Sprzęt komputerowy i biurowy;719
+Warmińsko-mazurskie;39;Meble i wyposażenie wnętrz;550
+Warmińsko-mazurskie;79;Usługi biznesowe i doradcze;515
+Warmińsko-mazurskie;55;Usługi hotelarskie i restauracyjne;415
+Warmińsko-mazurskie;60;Usługi transportu drogowego;390
+Warmińsko-mazurskie;38;Sprzęt laboratoryjny i naukowy;348
+Warmińsko-mazurskie;85;Usługi zdrowotne i społeczne;330
+Warmińsko-mazurskie;48;Pakiety oprogramowania;323
+Warmińsko-mazurskie;44;Materiały budowlane;303
+Warmińsko-mazurskie;50;Usługi napraw i konserwacji;303
+Warmińsko-mazurskie;66;Usługi finansowe i ubezpieczeniowe;276
+Warmińsko-mazurskie;80;Usługi edukacyjne;270
+Warmińsko-mazurskie;14;Górnictwo i minerały;251
+Warmińsko-mazurskie;31;Sprzęt elektryczny;241
+Warmińsko-mazurskie;32;Sprzęt elektroniczny i telekomunikacyjny;241
+Warmińsko-mazurskie;3;Produkty rolne, łowieckie i rybne;188
+Warmińsko-mazurskie;64;Usługi pocztowe i telekomunikacyjne;187
+Warmińsko-mazurskie;77;Usługi rolnicze i leśne;165
+Warmińsko-mazurskie;16;Maszyny rolnicze;151
+Warmińsko-mazurskie;42;Maszyny przemysłowe;141
+Warmińsko-mazurskie;24;Produkty chemiczne;138
+Warmińsko-mazurskie;98;Pozostałe usługi komunalne i osobiste;124
+Warmińsko-mazurskie;22;Drukowane materiały i produkty poligraficzne;115
+Warmińsko-mazurskie;43;Maszyny górnicze;115
+Warmińsko-mazurskie;72;Usługi informatyczne;115
+Warmińsko-mazurskie;37;Sprzęt sportowy i rekreacyjny;98
+Warmińsko-mazurskie;18;Odzież i obuwie;97
+Warmińsko-mazurskie;35;Sprzęt bezpieczeństwa i ochrony;94
+Warmińsko-mazurskie;63;Usługi spedycji i logistyki;46
+Warmińsko-mazurskie;92;Usługi rekreacyjne i kulturalne;37
+Warmińsko-mazurskie;73;Usługi badawczo-rozwojowe;34
+Warmińsko-mazurskie;70;Usługi w zakresie nieruchomości;28
+Warmińsko-mazurskie;51;Usługi instalacyjne;12
+Warmińsko-mazurskie;19;Wyroby skórzane i tekstylne;8
+Warmińsko-mazurskie;75;Usługi administracji publicznej;7
+Warmińsko-mazurskie;65;Usługi komunalne (gaz, woda, energia);4
+Wielkopolskie;45;Roboty budowlane;14679
+Wielkopolskie;33;Sprzęt medyczny i farmaceutyczny;3626
+Wielkopolskie;90;Usługi środowiskowe i sanitarne;2055
+Wielkopolskie;71;Usługi architektoniczne i inżynieryjne;2001
+Wielkopolskie;9;Produkty naftowe, paliwa i energia;1814
+Wielkopolskie;15;Artykuły spożywcze i napoje;1613
+Wielkopolskie;34;Sprzęt transportowy i pojazdy;1442
+Wielkopolskie;30;Sprzęt komputerowy i biurowy;1408
+Wielkopolskie;60;Usługi transportu drogowego;1267
+Wielkopolskie;39;Meble i wyposażenie wnętrz;1053
+Wielkopolskie;79;Usługi biznesowe i doradcze;910
+Wielkopolskie;55;Usługi hotelarskie i restauracyjne;898
+Wielkopolskie;85;Usługi zdrowotne i społeczne;755
+Wielkopolskie;50;Usługi napraw i konserwacji;710
+Wielkopolskie;24;Produkty chemiczne;658
+Wielkopolskie;77;Usługi rolnicze i leśne;652
+Wielkopolskie;66;Usługi finansowe i ubezpieczeniowe;555
+Wielkopolskie;3;Produkty rolne, łowieckie i rybne;530
+Wielkopolskie;48;Pakiety oprogramowania;493
+Wielkopolskie;38;Sprzęt laboratoryjny i naukowy;489
+Wielkopolskie;80;Usługi edukacyjne;458
+Wielkopolskie;64;Usługi pocztowe i telekomunikacyjne;410
+Wielkopolskie;44;Materiały budowlane;409
+Wielkopolskie;72;Usługi informatyczne;380
+Wielkopolskie;31;Sprzęt elektryczny;324
+Wielkopolskie;32;Sprzęt elektroniczny i telekomunikacyjny;310
+Wielkopolskie;42;Maszyny przemysłowe;289
+Wielkopolskie;98;Pozostałe usługi komunalne i osobiste;285
+Wielkopolskie;18;Odzież i obuwie;170
+Wielkopolskie;16;Maszyny rolnicze;167
+Wielkopolskie;37;Sprzęt sportowy i rekreacyjny;118
+Wielkopolskie;14;Górnictwo i minerały;116
+Wielkopolskie;92;Usługi rekreacyjne i kulturalne;116
+Wielkopolskie;35;Sprzęt bezpieczeństwa i ochrony;112
+Wielkopolskie;22;Drukowane materiały i produkty poligraficzne;107
+Wielkopolskie;63;Usługi spedycji i logistyki;90
+Wielkopolskie;43;Maszyny górnicze;88
+Wielkopolskie;75;Usługi administracji publicznej;63
+Wielkopolskie;19;Wyroby skórzane i tekstylne;50
+Wielkopolskie;51;Usługi instalacyjne;37
+Wielkopolskie;70;Usługi w zakresie nieruchomości;37
+Wielkopolskie;73;Usługi badawczo-rozwojowe;37
+Wielkopolskie;65;Usługi komunalne (gaz, woda, energia);16
+Wielkopolskie;41;Woda i usługi wodne;5
+Wielkopolskie;76;Usługi związane z przemysłem naftowym;1
+Zachodniopomorskie;45;Roboty budowlane;7103
+Zachodniopomorskie;33;Sprzęt medyczny i farmaceutyczny;1426
+Zachodniopomorskie;71;Usługi architektoniczne i inżynieryjne;1209
+Zachodniopomorskie;90;Usługi środowiskowe i sanitarne;1161
+Zachodniopomorskie;15;Artykuły spożywcze i napoje;1139
+Zachodniopomorskie;34;Sprzęt transportowy i pojazdy;1103
+Zachodniopomorskie;9;Produkty naftowe, paliwa i energia;856
+Zachodniopomorskie;30;Sprzęt komputerowy i biurowy;818
+Zachodniopomorskie;50;Usługi napraw i konserwacji;670
+Zachodniopomorskie;39;Meble i wyposażenie wnętrz;598
+Zachodniopomorskie;79;Usługi biznesowe i doradcze;585
+Zachodniopomorskie;55;Usługi hotelarskie i restauracyjne;563
+Zachodniopomorskie;60;Usługi transportu drogowego;512
+Zachodniopomorskie;80;Usługi edukacyjne;374
+Zachodniopomorskie;85;Usługi zdrowotne i społeczne;330
+Zachodniopomorskie;44;Materiały budowlane;279
+Zachodniopomorskie;38;Sprzęt laboratoryjny i naukowy;270
+Zachodniopomorskie;66;Usługi finansowe i ubezpieczeniowe;266
+Zachodniopomorskie;77;Usługi rolnicze i leśne;251
+Zachodniopomorskie;31;Sprzęt elektryczny;246
+Zachodniopomorskie;64;Usługi pocztowe i telekomunikacyjne;246
+Zachodniopomorskie;3;Produkty rolne, łowieckie i rybne;244
+Zachodniopomorskie;48;Pakiety oprogramowania;229
+Zachodniopomorskie;42;Maszyny przemysłowe;221
+Zachodniopomorskie;98;Pozostałe usługi komunalne i osobiste;196
+Zachodniopomorskie;32;Sprzęt elektroniczny i telekomunikacyjny;169
+Zachodniopomorskie;24;Produkty chemiczne;135
+Zachodniopomorskie;18;Odzież i obuwie;131
+Zachodniopomorskie;35;Sprzęt bezpieczeństwa i ochrony;125
+Zachodniopomorskie;16;Maszyny rolnicze;113
+Zachodniopomorskie;72;Usługi informatyczne;101
+Zachodniopomorskie;14;Górnictwo i minerały;95
+Zachodniopomorskie;37;Sprzęt sportowy i rekreacyjny;86
+Zachodniopomorskie;22;Drukowane materiały i produkty poligraficzne;78
+Zachodniopomorskie;43;Maszyny górnicze;72
+Zachodniopomorskie;75;Usługi administracji publicznej;62
+Zachodniopomorskie;63;Usługi spedycji i logistyki;50
+Zachodniopomorskie;92;Usługi rekreacyjne i kulturalne;30
+Zachodniopomorskie;51;Usługi instalacyjne;27
+Zachodniopomorskie;19;Wyroby skórzane i tekstylne;24
+Zachodniopomorskie;70;Usługi w zakresie nieruchomości;23
+Zachodniopomorskie;65;Usługi komunalne (gaz, woda, energia);19
+Zachodniopomorskie;73;Usługi badawczo-rozwojowe;8
+Zachodniopomorskie;41;Woda i usługi wodne;1
+Zachodniopomorskie;76;Usługi związane z przemysłem naftowym;1
+Łódzkie;45;Roboty budowlane;10730
+Łódzkie;33;Sprzęt medyczny i farmaceutyczny;1870
+Łódzkie;71;Usługi architektoniczne i inżynieryjne;1806
+Łódzkie;9;Produkty naftowe, paliwa i energia;1503
+Łódzkie;90;Usługi środowiskowe i sanitarne;1342
+Łódzkie;30;Sprzęt komputerowy i biurowy;1292
+Łódzkie;34;Sprzęt transportowy i pojazdy;1161
+Łódzkie;15;Artykuły spożywcze i napoje;865
+Łódzkie;79;Usługi biznesowe i doradcze;859
+Łódzkie;39;Meble i wyposażenie wnętrz;853
+Łódzkie;55;Usługi hotelarskie i restauracyjne;778
+Łódzkie;80;Usługi edukacyjne;738
+Łódzkie;50;Usługi napraw i konserwacji;556
+Łódzkie;60;Usługi transportu drogowego;532
+Łódzkie;38;Sprzęt laboratoryjny i naukowy;460
+Łódzkie;66;Usługi finansowe i ubezpieczeniowe;412
+Łódzkie;48;Pakiety oprogramowania;396
+Łódzkie;85;Usługi zdrowotne i społeczne;389
+Łódzkie;31;Sprzęt elektryczny;380
+Łódzkie;44;Materiały budowlane;339
+Łódzkie;72;Usługi informatyczne;282
+Łódzkie;64;Usługi pocztowe i telekomunikacyjne;264
+Łódzkie;42;Maszyny przemysłowe;255
+Łódzkie;32;Sprzęt elektroniczny i telekomunikacyjny;247
+Łódzkie;98;Pozostałe usługi komunalne i osobiste;243
+Łódzkie;24;Produkty chemiczne;200
+Łódzkie;16;Maszyny rolnicze;189
+Łódzkie;3;Produkty rolne, łowieckie i rybne;188
+Łódzkie;77;Usługi rolnicze i leśne;186
+Łódzkie;14;Górnictwo i minerały;157
+Łódzkie;22;Drukowane materiały i produkty poligraficzne;112
+Łódzkie;37;Sprzęt sportowy i rekreacyjny;97
+Łódzkie;35;Sprzęt bezpieczeństwa i ochrony;95
+Łódzkie;18;Odzież i obuwie;89
+Łódzkie;43;Maszyny górnicze;76
+Łódzkie;63;Usługi spedycji i logistyki;76
+Łódzkie;92;Usługi rekreacyjne i kulturalne;73
+Łódzkie;70;Usługi w zakresie nieruchomości;61
+Łódzkie;19;Wyroby skórzane i tekstylne;50
+Łódzkie;75;Usługi administracji publicznej;50
+Łódzkie;73;Usługi badawczo-rozwojowe;46
+Łódzkie;65;Usługi komunalne (gaz, woda, energia);21
+Łódzkie;51;Usługi instalacyjne;20
+Łódzkie;76;Usługi związane z przemysłem naftowym;2
+Łódzkie;41;Woda i usługi wodne;1
+Śląskie;45;Roboty budowlane;15224
+Śląskie;33;Sprzęt medyczny i farmaceutyczny;3420
+Śląskie;71;Usługi architektoniczne i inżynieryjne;2930
+Śląskie;15;Artykuły spożywcze i napoje;2927
+Śląskie;90;Usługi środowiskowe i sanitarne;2185
+Śląskie;30;Sprzęt komputerowy i biurowy;1675
+Śląskie;9;Produkty naftowe, paliwa i energia;1594
+Śląskie;34;Sprzęt transportowy i pojazdy;1568
+Śląskie;79;Usługi biznesowe i doradcze;1531
+Śląskie;39;Meble i wyposażenie wnętrz;1177
+Śląskie;80;Usługi edukacyjne;1066
+Śląskie;55;Usługi hotelarskie i restauracyjne;1047
+Śląskie;60;Usługi transportu drogowego;1004
+Śląskie;50;Usługi napraw i konserwacji;876
+Śląskie;85;Usługi zdrowotne i społeczne;865
+Śląskie;48;Pakiety oprogramowania;749
+Śląskie;66;Usługi finansowe i ubezpieczeniowe;608
+Śląskie;38;Sprzęt laboratoryjny i naukowy;578
+Śląskie;31;Sprzęt elektryczny;483
+Śląskie;64;Usługi pocztowe i telekomunikacyjne;454
+Śląskie;42;Maszyny przemysłowe;453
+Śląskie;3;Produkty rolne, łowieckie i rybne;447
+Śląskie;72;Usługi informatyczne;431
+Śląskie;77;Usługi rolnicze i leśne;421
+Śląskie;44;Materiały budowlane;413
+Śląskie;32;Sprzęt elektroniczny i telekomunikacyjny;382
+Śląskie;98;Pozostałe usługi komunalne i osobiste;312
+Śląskie;24;Produkty chemiczne;303
+Śląskie;37;Sprzęt sportowy i rekreacyjny;260
+Śląskie;43;Maszyny górnicze;203
+Śląskie;70;Usługi w zakresie nieruchomości;188
+Śląskie;16;Maszyny rolnicze;177
+Śląskie;18;Odzież i obuwie;177
+Śląskie;14;Górnictwo i minerały;167
+Śląskie;35;Sprzęt bezpieczeństwa i ochrony;157
+Śląskie;22;Drukowane materiały i produkty poligraficzne;132
+Śląskie;92;Usługi rekreacyjne i kulturalne;106
+Śląskie;63;Usługi spedycji i logistyki;91
+Śląskie;75;Usługi administracji publicznej;86
+Śląskie;51;Usługi instalacyjne;47
+Śląskie;19;Wyroby skórzane i tekstylne;45
+Śląskie;73;Usługi badawczo-rozwojowe;31
+Śląskie;65;Usługi komunalne (gaz, woda, energia);19
+Śląskie;41;Woda i usługi wodne;8
+Śląskie;76;Usługi związane z przemysłem naftowym;6
+Świętokrzyskie;45;Roboty budowlane;5838
+Świętokrzyskie;33;Sprzęt medyczny i farmaceutyczny;1862
+Świętokrzyskie;71;Usługi architektoniczne i inżynieryjne;1152
+Świętokrzyskie;15;Artykuły spożywcze i napoje;802
+Świętokrzyskie;9;Produkty naftowe, paliwa i energia;781
+Świętokrzyskie;90;Usługi środowiskowe i sanitarne;774
+Świętokrzyskie;34;Sprzęt transportowy i pojazdy;705
+Świętokrzyskie;30;Sprzęt komputerowy i biurowy;599
+Świętokrzyskie;60;Usługi transportu drogowego;519
+Świętokrzyskie;80;Usługi edukacyjne;463
+Świętokrzyskie;79;Usługi biznesowe i doradcze;460
+Świętokrzyskie;39;Meble i wyposażenie wnętrz;398
+Świętokrzyskie;85;Usługi zdrowotne i społeczne;339
+Świętokrzyskie;50;Usługi napraw i konserwacji;325
+Świętokrzyskie;55;Usługi hotelarskie i restauracyjne;311
+Świętokrzyskie;66;Usługi finansowe i ubezpieczeniowe;276
+Świętokrzyskie;48;Pakiety oprogramowania;207
+Świętokrzyskie;31;Sprzęt elektryczny;202
+Świętokrzyskie;38;Sprzęt laboratoryjny i naukowy;165
+Świętokrzyskie;64;Usługi pocztowe i telekomunikacyjne;152
+Świętokrzyskie;32;Sprzęt elektroniczny i telekomunikacyjny;142
+Świętokrzyskie;43;Maszyny górnicze;125
+Świętokrzyskie;44;Materiały budowlane;125
+Świętokrzyskie;42;Maszyny przemysłowe;122
+Świętokrzyskie;63;Usługi spedycji i logistyki;110
+Świętokrzyskie;98;Pozostałe usługi komunalne i osobiste;107
+Świętokrzyskie;18;Odzież i obuwie;104
+Świętokrzyskie;16;Maszyny rolnicze;101
+Świętokrzyskie;72;Usługi informatyczne;100
+Świętokrzyskie;3;Produkty rolne, łowieckie i rybne;95
+Świętokrzyskie;24;Produkty chemiczne;90
+Świętokrzyskie;14;Górnictwo i minerały;88
+Świętokrzyskie;77;Usługi rolnicze i leśne;83
+Świętokrzyskie;35;Sprzęt bezpieczeństwa i ochrony;82
+Świętokrzyskie;70;Usługi w zakresie nieruchomości;51
+Świętokrzyskie;73;Usługi badawczo-rozwojowe;50
+Świętokrzyskie;22;Drukowane materiały i produkty poligraficzne;47
+Świętokrzyskie;37;Sprzęt sportowy i rekreacyjny;46
+Świętokrzyskie;92;Usługi rekreacyjne i kulturalne;29
+Świętokrzyskie;19;Wyroby skórzane i tekstylne;15
+Świętokrzyskie;75;Usługi administracji publicznej;13
+Świętokrzyskie;51;Usługi instalacyjne;5

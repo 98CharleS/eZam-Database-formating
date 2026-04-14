@@ -1,46 +1,46 @@
 cpv_division;division_name;tender_count;share_pct
-3;Produkty rolne, łowieckie i rybne;321;0.64
-9;Produkty naftowe, paliwa i energia;1597;3.19
-14;Górnictwo i minerały;209;0.42
-15;Artykuły spożywcze i napoje;1389;2.78
-16;Maszyny rolnicze;160;0.32
-18;Odzież i obuwie;201;0.4
-19;Wyroby skórzane i tekstylne;70;0.14
-22;Drukowane materiały i produkty poligraficzne;170;0.34
-24;Produkty chemiczne;305;0.61
-30;Sprzęt komputerowy i biurowy;2818;5.64
-31;Sprzęt elektryczny;341;0.68
-32;Sprzęt elektroniczny i telekomunikacyjny;465;0.93
-33;Sprzęt medyczny i farmaceutyczny;3504;7.01
-34;Sprzęt transportowy i pojazdy;1734;3.47
-35;Sprzęt bezpieczeństwa i ochrony;99;0.2
-37;Sprzęt sportowy i rekreacyjny;216;0.43
-38;Sprzęt laboratoryjny i naukowy;794;1.59
-39;Meble i wyposażenie wnętrz;1344;2.69
-41;Woda i usługi wodne;11;0.02
-42;Maszyny przemysłowe;416;0.83
-43;Maszyny górnicze;134;0.27
-44;Materiały budowlane;480;0.96
-45;Roboty budowlane;19854;39.71
-48;Pakiety oprogramowania;800;1.6
-50;Usługi napraw i konserwacji;635;1.27
-51;Usługi instalacyjne;37;0.07
-55;Usługi hotelarskie i restauracyjne;1039;2.08
-60;Usługi transportu drogowego;1296;2.59
-63;Usługi spedycji i logistyki;158;0.32
-64;Usługi pocztowe i telekomunikacyjne;195;0.39
-65;Usługi komunalne (gaz, woda, energia);14;0.03
-66;Usługi finansowe i ubezpieczeniowe;452;0.9
-70;Usługi w zakresie nieruchomości;94;0.19
-71;Usługi architektoniczne i inżynieryjne;3131;6.26
-72;Usługi informatyczne;483;0.97
-73;Usługi badawczo-rozwojowe;122;0.24
-75;Usługi administracji publicznej;55;0.11
-76;Usługi związane z przemysłem naftowym;2;0.0
-77;Usługi rolnicze i leśne;407;0.81
-79;Usługi biznesowe i doradcze;1148;2.3
-80;Usługi edukacyjne;1129;2.26
-85;Usługi zdrowotne i społeczne;470;0.94
-90;Usługi środowiskowe i sanitarne;1375;2.75
-92;Usługi rekreacyjne i kulturalne;145;0.29
-98;Pozostałe usługi komunalne i osobiste;181;0.36
+45;Roboty budowlane;167010;32.25
+33;Sprzęt medyczny i farmaceutyczny;39843;7.69
+71;Usługi architektoniczne i inżynieryjne;31379;6.06
+90;Usługi środowiskowe i sanitarne;23543;4.55
+15;Artykuły spożywcze i napoje;22319;4.31
+9;Produkty naftowe, paliwa i energia;20268;3.91
+34;Sprzęt transportowy i pojazdy;19757;3.82
+30;Sprzęt komputerowy i biurowy;19462;3.76
+79;Usługi biznesowe i doradcze;15855;3.06
+39;Meble i wyposażenie wnętrz;14948;2.89
+55;Usługi hotelarskie i restauracyjne;12376;2.39
+60;Usługi transportu drogowego;10630;2.05
+80;Usługi edukacyjne;10368;2.0
+50;Usługi napraw i konserwacji;9661;1.87
+85;Usługi zdrowotne i społeczne;8504;1.64
+48;Pakiety oprogramowania;8130;1.57
+38;Sprzęt laboratoryjny i naukowy;7892;1.52
+66;Usługi finansowe i ubezpieczeniowe;7291;1.41
+31;Sprzęt elektryczny;5585;1.08
+44;Materiały budowlane;5395;1.04
+72;Usługi informatyczne;5213;1.01
+77;Usługi rolnicze i leśne;5115;0.99
+32;Sprzęt elektroniczny i telekomunikacyjny;4742;0.92
+64;Usługi pocztowe i telekomunikacyjne;4676;0.9
+42;Maszyny przemysłowe;4247;0.82
+3;Produkty rolne, łowieckie i rybne;3914;0.76
+24;Produkty chemiczne;3475;0.67
+98;Pozostałe usługi komunalne i osobiste;3081;0.59
+14;Górnictwo i minerały;2724;0.53
+18;Odzież i obuwie;2627;0.51
+16;Maszyny rolnicze;2316;0.45
+35;Sprzęt bezpieczeństwa i ochrony;2091;0.4
+43;Maszyny górnicze;2045;0.39
+22;Drukowane materiały i produkty poligraficzne;2034;0.39
+37;Sprzęt sportowy i rekreacyjny;1965;0.38
+92;Usługi rekreacyjne i kulturalne;1655;0.32
+63;Usługi spedycji i logistyki;1632;0.32
+70;Usługi w zakresie nieruchomości;1015;0.2
+75;Usługi administracji publicznej;864;0.17
+73;Usługi badawczo-rozwojowe;854;0.16
+19;Wyroby skórzane i tekstylne;609;0.12
+51;Usługi instalacyjne;370;0.07
+65;Usługi komunalne (gaz, woda, energia);244;0.05
+41;Woda i usługi wodne;91;0.02
+76;Usługi związane z przemysłem naftowym;18;0.0

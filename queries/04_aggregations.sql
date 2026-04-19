@@ -275,24 +275,18 @@ ORDER BY organizationProvince ASC, tender_count DESC;
 -- TABLE 12. top10_cpv_per_year 
 -- Number of tenders per year
 -- -----------------------------------------------------------------------------
+DROP TABLE IF EXISTS top10_cpv_per_year;
+
 CREATE TABLE top10_cpv_per_year AS
 WITH cpv_extracted AS (
     SELECT
-        STRFTIME('%Y', publicationDate) AS year,
-        TRIM(SUBSTR(cpvCode, 1,
-            CASE
-                WHEN INSTR(cpvCode, ',') > 0
-                THEN INSTR(cpvCode, ',') - 1
-                ELSE LENGTH(cpvCode)
-            END
-        ))                              AS cpv_full,
-        TRIM(SUBSTR(cpvCode, 1,
-            CASE
-                WHEN INSTR(cpvCode, ' ') > 0
-                THEN INSTR(cpvCode, ' ') - 1
-                ELSE LENGTH(cpvCode)
-            END
-        ))                              AS cpv_code
+        STRFTIME('%Y', publicationDate)                     AS year,
+        TRIM(SUBSTR(cpvCode, 1, INSTR(cpvCode, ' ') - 1))  AS cpv_code,
+        TRIM(SUBSTR(
+            SUBSTR(cpvCode, INSTR(cpvCode, '(') + 1),
+            1,
+            INSTR(SUBSTR(cpvCode, INSTR(cpvCode, '(') + 1), ')') - 1
+        ))                                                  AS cpv_description
     FROM raw_data
     WHERE STRFTIME('%Y', publicationDate) IN ('2021','2022','2023','2024','2025')
 ),
@@ -300,8 +294,8 @@ yearly_counts AS (
     SELECT
         year,
         cpv_code,
-        cpv_full,
-        COUNT(*)    AS count
+        cpv_description,
+        COUNT(*) AS tender_count
     FROM cpv_extracted
     GROUP BY year, cpv_code
 ),
@@ -309,19 +303,20 @@ ranked AS (
     SELECT
         year,
         cpv_code,
-        cpv_full,
-        count,
+        cpv_description,
+        tender_count,
         ROW_NUMBER() OVER (
             PARTITION BY year
-            ORDER BY count DESC
+            ORDER BY tender_count DESC
         ) AS rank
     FROM yearly_counts
 )
 SELECT
-    year        AS year,
-    rank        AS rank,
-    cpv_full    AS cpv_code_description,
-    count       AS tender_count
+    year,
+    rank,
+    cpv_code,
+    cpv_description,
+    tender_count
 FROM ranked
 WHERE rank <= 10
 ORDER BY year, rank;

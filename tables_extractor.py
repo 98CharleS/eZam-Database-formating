@@ -19,7 +19,8 @@ tables = [
     "top5_cpv_by_province_2022",
     "top5_cpv_by_province_2023",
     "top5_cpv_by_province_2024",
-    "top5_cpv_by_province_2025"
+    "top5_cpv_by_province_2025",
+    "top10_cpv_per_year"
 ]
 
 for table in tables:

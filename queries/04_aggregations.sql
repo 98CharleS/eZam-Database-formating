@@ -270,3 +270,58 @@ WHERE organizationProvince IS NOT NULL
   AND organizationProvince != ''
 GROUP BY organizationProvince, cpv_division, d.name
 ORDER BY organizationProvince ASC, tender_count DESC;
+
+-- -----------------------------------------------------------------------------
+-- TABLE 12. top10_cpv_per_year 
+-- Number of tenders per year
+-- -----------------------------------------------------------------------------
+CREATE TABLE top10_cpv_per_year AS
+WITH cpv_extracted AS (
+    SELECT
+        STRFTIME('%Y', publicationDate) AS year,
+        TRIM(SUBSTR(cpvCode, 1,
+            CASE
+                WHEN INSTR(cpvCode, ',') > 0
+                THEN INSTR(cpvCode, ',') - 1
+                ELSE LENGTH(cpvCode)
+            END
+        ))                              AS cpv_full,
+        TRIM(SUBSTR(cpvCode, 1,
+            CASE
+                WHEN INSTR(cpvCode, ' ') > 0
+                THEN INSTR(cpvCode, ' ') - 1
+                ELSE LENGTH(cpvCode)
+            END
+        ))                              AS cpv_code
+    FROM raw_data
+    WHERE STRFTIME('%Y', publicationDate) IN ('2021','2022','2023','2024','2025')
+),
+yearly_counts AS (
+    SELECT
+        year,
+        cpv_code,
+        cpv_full,
+        COUNT(*)    AS count
+    FROM cpv_extracted
+    GROUP BY year, cpv_code
+),
+ranked AS (
+    SELECT
+        year,
+        cpv_code,
+        cpv_full,
+        count,
+        ROW_NUMBER() OVER (
+            PARTITION BY year
+            ORDER BY count DESC
+        ) AS rank
+    FROM yearly_counts
+)
+SELECT
+    year        AS year,
+    rank        AS rank,
+    cpv_full    AS cpv_code_description,
+    count       AS tender_count
+FROM ranked
+WHERE rank <= 10
+ORDER BY year, rank;

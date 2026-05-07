@@ -320,3 +320,54 @@ SELECT
 FROM ranked
 WHERE rank <= 10
 ORDER BY year, rank;
+
+-- -----------------------------------------------------------------------------
+-- TABLE 13. top5_cpv_per_province_total
+-- Identify the top 5 most frequent CPV codes for each province
+-- Aggregates data across the entire available time range
+-- -----------------------------------------------------------------------------
+DROP TABLE IF EXISTS top5_cpv_per_province_total;
+
+CREATE TABLE top5_cpv_per_province_total AS
+WITH cpv_base AS (
+    SELECT
+        organizationProvince AS province,
+        TRIM(SUBSTR(cpvCode, 1, INSTR(cpvCode, ' ') - 1)) AS cpv_code,
+        TRIM(SUBSTR(
+            SUBSTR(cpvCode, INSTR(cpvCode, '(') + 1),
+            1,
+            INSTR(SUBSTR(cpvCode, INSTR(cpvCode, '(') + 1), ')') - 1
+        )) AS cpv_description
+    FROM raw_data
+    WHERE organizationProvince IS NOT NULL AND organizationProvince != ''
+),
+counted_stats AS (
+    SELECT
+        province,
+        cpv_code,
+        cpv_description,
+        COUNT(*) AS tender_count
+    FROM cpv_base
+    GROUP BY province, cpv_code
+),
+ranked_stats AS (
+    SELECT
+        province,
+        cpv_code,
+        cpv_description,
+        tender_count,
+        ROW_NUMBER() OVER (
+            PARTITION BY province 
+            ORDER BY tender_count DESC
+        ) AS rank
+    FROM counted_stats
+)
+SELECT
+    province,
+    rank,
+    cpv_code,
+    cpv_description,
+    tender_count
+FROM ranked_stats
+WHERE rank <= 5
+ORDER BY province, rank;

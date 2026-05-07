@@ -1,0 +1,81 @@
+province;rank;cpv_code;cpv_description;tender_count
+Dolnośląskie;1;45000000-7;Roboty budowlane;4730
+Dolnośląskie;2;45233120-6;Roboty w zakresie budowy dróg;588
+Dolnośląskie;3;71320000-7;Usługi inżynieryjne w zakresie projektowania;585
+Dolnośląskie;4;79710000-4;Usługi ochroniarskie;533
+Dolnośląskie;5;45200000-9;Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej;509
+Kujawsko-pomorskie;1;45000000-7;Roboty budowlane;3543
+Kujawsko-pomorskie;2;66510000-8;Usługi ubezpieczeniowe;773
+Kujawsko-pomorskie;3;45233120-6;Roboty w zakresie budowy dróg;498
+Kujawsko-pomorskie;4;45233140-2;Roboty drogowe;426
+Kujawsko-pomorskie;5;45453000-7;Roboty remontowe i renowacyjne;370
+Lubelskie;1;45000000-7;Roboty budowlane;3389
+Lubelskie;2;45233120-6;Roboty w zakresie budowy dróg;694
+Lubelskie;3;45233000-9;Roboty w zakresie konstruowania, fundamentowania oraz wykonywania nawierzchni autostrad, dróg;586
+Lubelskie;4;45233140-2;Roboty drogowe;563
+Lubelskie;5;90500000-2;Usługi związane z odpadami;481
+Lubuskie;1;45000000-7;Roboty budowlane;1786
+Lubuskie;2;45233120-6;Roboty w zakresie budowy dróg;287
+Lubuskie;3;45233140-2;Roboty drogowe;235
+Lubuskie;4;80000000-4;Usługi edukacyjne i szkoleniowe;222
+Lubuskie;5;79710000-4;Usługi ochroniarskie;206
+Mazowieckie;1;45000000-7;Roboty budowlane;8865
+Mazowieckie;2;45233120-6;Roboty w zakresie budowy dróg;1768
+Mazowieckie;3;79710000-4;Usługi ochroniarskie;1386
+Mazowieckie;4;45453000-7;Roboty remontowe i renowacyjne;1380
+Mazowieckie;5;71320000-7;Usługi inżynieryjne w zakresie projektowania;1258
+Małopolskie;1;45000000-7;Roboty budowlane;4270
+Małopolskie;2;71320000-7;Usługi inżynieryjne w zakresie projektowania;1185
+Małopolskie;3;45233140-2;Roboty drogowe;1136
+Małopolskie;4;45453000-7;Roboty remontowe i renowacyjne;801
+Małopolskie;5;90620000-9;Usługi odśnieżania;691
+Opolskie;1;45000000-7;Roboty budowlane;1795
+Opolskie;2;33140000-3;Materiały medyczne;218
+Opolskie;3;80000000-4;Usługi edukacyjne i szkoleniowe;188
+Opolskie;4;45233000-9;Roboty w zakresie konstruowania, fundamentowania oraz wykonywania nawierzchni autostrad, dróg;187
+Opolskie;5;09310000-5;Elektryczność;180
+Podkarpackie;1;45000000-7;Roboty budowlane;3879
+Podkarpackie;2;45233140-2;Roboty drogowe;750
+Podkarpackie;3;71320000-7;Usługi inżynieryjne w zakresie projektowania;584
+Podkarpackie;4;45233222-1;Roboty budowlane w zakresie układania chodników i asfaltowania;458
+Podkarpackie;5;45233142-6;Roboty w zakresie naprawy dróg;437
+Podlaskie;1;45000000-7;Roboty budowlane;1883
+Podlaskie;2;45233120-6;Roboty w zakresie budowy dróg;802
+Podlaskie;3;45233220-7;Roboty w zakresie nawierzchni dróg;363
+Podlaskie;4;71320000-7;Usługi inżynieryjne w zakresie projektowania;345
+Podlaskie;5;90500000-2;Usługi związane z odpadami;264
+Pomorskie;1;45000000-7;Roboty budowlane;3359
+Pomorskie;2;71320000-7;Usługi inżynieryjne w zakresie projektowania;608
+Pomorskie;3;45233120-6;Roboty w zakresie budowy dróg;511
+Pomorskie;4;45233140-2;Roboty drogowe;434
+Pomorskie;5;80000000-4;Usługi edukacyjne i szkoleniowe;383
+Warmińsko-mazurskie;1;45000000-7;Roboty budowlane;1872
+Warmińsko-mazurskie;2;45233140-2;Roboty drogowe;540
+Warmińsko-mazurskie;3;45233120-6;Roboty w zakresie budowy dróg;493
+Warmińsko-mazurskie;4;45233220-7;Roboty w zakresie nawierzchni dróg;336
+Warmińsko-mazurskie;5;71320000-7;Usługi inżynieryjne w zakresie projektowania;319
+Wielkopolskie;1;45000000-7;Roboty budowlane;4608
+Wielkopolskie;2;45233140-2;Roboty drogowe;1340
+Wielkopolskie;3;45233120-6;Roboty w zakresie budowy dróg;786
+Wielkopolskie;4;71320000-7;Usługi inżynieryjne w zakresie projektowania;573
+Wielkopolskie;5;45453000-7;Roboty remontowe i renowacyjne;542
+Zachodniopomorskie;1;45000000-7;Roboty budowlane;2719
+Zachodniopomorskie;2;45233220-7;Roboty w zakresie nawierzchni dróg;355
+Zachodniopomorskie;3;79710000-4;Usługi ochroniarskie;316
+Zachodniopomorskie;4;45233120-6;Roboty w zakresie budowy dróg;311
+Zachodniopomorskie;5;90500000-2;Usługi związane z odpadami;257
+Łódzkie;1;45000000-7;Roboty budowlane;4022
+Łódzkie;2;45233140-2;Roboty drogowe;688
+Łódzkie;3;45233120-6;Roboty w zakresie budowy dróg;686
+Łódzkie;4;71320000-7;Usługi inżynieryjne w zakresie projektowania;473
+Łódzkie;5;30200000-1;Urządzenia komputerowe;398
+Śląskie;1;45000000-7;Roboty budowlane;6218
+Śląskie;2;15000000-8;Żywność, napoje, tytoń i produkty pokrewne;788
+Śląskie;3;79710000-4;Usługi ochroniarskie;776
+Śląskie;4;45233140-2;Roboty drogowe;723
+Śląskie;5;71320000-7;Usługi inżynieryjne w zakresie projektowania;687
+Świętokrzyskie;1;45000000-7;Roboty budowlane;1968
+Świętokrzyskie;2;45233140-2;Roboty drogowe;568
+Świętokrzyskie;3;33140000-3;Materiały medyczne;453
+Świętokrzyskie;4;71320000-7;Usługi inżynieryjne w zakresie projektowania;417
+Świętokrzyskie;5;60100000-9;Usługi w zakresie transportu drogowego;298
